@@ -1,1 +1,0 @@
-window.scrollbars.visible = false;
