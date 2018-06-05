@@ -1,0 +1,64 @@
+[29-May-2018 08:39:39 UTC] PHP Parse error:  syntax error, unexpected '$live' (T_VARIABLE) in /home2/artscirc/public_html/taaraBackend/index.php on line 154
+[29-May-2018 08:39:49 UTC] PHP Parse error:  syntax error, unexpected '$live' (T_VARIABLE) in /home2/artscirc/public_html/taaraBackend/index.php on line 154
+[29-May-2018 08:41:13 UTC] PHP Parse error:  syntax error, unexpected '$live' (T_VARIABLE) in /home2/artscirc/public_html/taaraBackend/index.php on line 154
+[29-May-2018 08:42:37 UTC] PHP Parse error:  syntax error, unexpected '$live' (T_VARIABLE) in /home2/artscirc/public_html/taaraBackend/index.php on line 154
+[29-May-2018 08:43:49 UTC] PHP Parse error:  syntax error, unexpected '$live' (T_VARIABLE) in /home2/artscirc/public_html/taaraBackend/index.php on line 154
+[31-May-2018 14:22:09 Africa/Nairobi] PHP Warning:  mail() has been disabled for security reasons in /home2/artscirc/public_html/taaraBackend/index.php on line 206
+[31-May-2018 14:23:01 Africa/Nairobi] PHP Warning:  mail() has been disabled for security reasons in /home2/artscirc/public_html/taaraBackend/index.php on line 206
+[31-May-2018 15:31:11 Africa/Nairobi] PHP Warning:  mail() has been disabled for security reasons in /home2/artscirc/public_html/taaraBackend/index.php on line 206
+[31-May-2018 15:32:59 Africa/Nairobi] PHP Warning:  mail() has been disabled for security reasons in /home2/artscirc/public_html/taaraBackend/index.php on line 206
+[31-May-2018 15:33:29 Africa/Nairobi] PHP Warning:  mail() has been disabled for security reasons in /home2/artscirc/public_html/taaraBackend/index.php on line 206
+[31-May-2018 15:34:31 Africa/Nairobi] PHP Warning:  mail() has been disabled for security reasons in /home2/artscirc/public_html/taaraBackend/index.php on line 206
+[31-May-2018 15:35:03 Africa/Nairobi] PHP Warning:  mail() has been disabled for security reasons in /home2/artscirc/public_html/taaraBackend/index.php on line 206
+[31-May-2018 15:35:03 Africa/Nairobi] PHP Warning:  mail() has been disabled for security reasons in /home2/artscirc/public_html/taaraBackend/index.php on line 206
+[31-May-2018 15:37:21 Africa/Nairobi] PHP Warning:  mail() has been disabled for security reasons in /home2/artscirc/public_html/taaraBackend/index.php on line 206
+[31-May-2018 15:37:44 Africa/Nairobi] PHP Warning:  mail() has been disabled for security reasons in /home2/artscirc/public_html/taaraBackend/index.php on line 206
+[31-May-2018 15:44:51 Africa/Nairobi] PHP Warning:  mail() has been disabled for security reasons in /home2/artscirc/public_html/taaraBackend/index.php on line 206
+[31-May-2018 15:45:27 Africa/Nairobi] PHP Warning:  mail() has been disabled for security reasons in /home2/artscirc/public_html/taaraBackend/index.php on line 206
+[31-May-2018 18:44:01 Africa/Nairobi] PHP Warning:  Creating default object from empty value in /home2/artscirc/public_html/taaraBackend/index.php on line 218
+[31-May-2018 18:27:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/artscirc/public_html/taaraBackend/callback.php on line 27
+[31-May-2018 18:28:19 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/artscirc/public_html/taaraBackend/callback.php on line 27
+[31-May-2018 18:29:19 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/artscirc/public_html/taaraBackend/callback.php on line 27
+[31-May-2018 18:30:52 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/artscirc/public_html/taaraBackend/callback.php on line 27
+[31-May-2018 18:32:47 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/artscirc/public_html/taaraBackend/callback.php on line 27
+[31-May-2018 18:32:50 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/artscirc/public_html/taaraBackend/callback.php on line 27
+[31-May-2018 18:34:12 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/artscirc/public_html/taaraBackend/callback.php on line 28
+[31-May-2018 18:41:51 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/artscirc/public_html/taaraBackend/confirm.php on line 25
+[31-May-2018 18:42:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/artscirc/public_html/taaraBackend/confirm.php on line 25
+[31-May-2018 18:47:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/artscirc/public_html/taaraBackend/confirm.php on line 24
+[31-May-2018 18:48:18 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/artscirc/public_html/taaraBackend/confirm.php on line 24
+[31-May-2018 19:17:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/artscirc/public_html/taaraBackend/confirm.php on line 25
+[31-May-2018 22:17:28 Africa/Nairobi] PHP Warning:  fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home2/artscirc/public_html/taaraBackend/confirm.php on line 21
+[31-May-2018 22:17:28 Africa/Nairobi] PHP Warning:  fopen(https://www.ipayafrica.com/ipn/?vendor=demo&amp;id=23&amp;ivm=23234&amp;qwh=34565&amp;afd=23545&amp;poi=345654&amp;uyt=45678&amp;ifd=123456): failed to open stream: no suitable wrapper could be found in /home2/artscirc/public_html/taaraBackend/confirm.php on line 21
+[31-May-2018 22:17:28 Africa/Nairobi] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home2/artscirc/public_html/taaraBackend/confirm.php on line 22
+[31-May-2018 22:18:27 Africa/Nairobi] PHP Warning:  fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home2/artscirc/public_html/taaraBackend/confirm.php on line 21
+[31-May-2018 22:18:27 Africa/Nairobi] PHP Warning:  fopen(https://www.ipayafrica.com/ipn/?vendor=demo&amp;id=23&amp;ivm=23234&amp;qwh=34565&amp;afd=23545&amp;poi=345654&amp;uyt=45678&amp;ifd=123456): failed to open stream: no suitable wrapper could be found in /home2/artscirc/public_html/taaraBackend/confirm.php on line 21
+[31-May-2018 22:18:27 Africa/Nairobi] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home2/artscirc/public_html/taaraBackend/confirm.php on line 22
+[31-May-2018 22:54:05 Africa/Nairobi] PHP Warning:  fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home2/artscirc/public_html/taaraBackend/confirm.php on line 30
+[31-May-2018 22:54:05 Africa/Nairobi] PHP Warning:  fopen(https://www.ipayafrica.com/ipn/?vendor=demo&amp;id=23&amp;ivm=23234&amp;qwh=34565&amp;afd=23545&amp;poi=345654&amp;uyt=45678&amp;ifd=123456): failed to open stream: no suitable wrapper could be found in /home2/artscirc/public_html/taaraBackend/confirm.php on line 30
+[31-May-2018 22:54:05 Africa/Nairobi] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home2/artscirc/public_html/taaraBackend/confirm.php on line 31
+[31-May-2018 22:56:03 Africa/Nairobi] PHP Warning:  fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home2/artscirc/public_html/taaraBackend/confirm.php on line 30
+[31-May-2018 22:56:03 Africa/Nairobi] PHP Warning:  fopen(https://www.ipayafrica.com/ipn/?vendor=demo&amp;id=23&amp;ivm=23234&amp;qwh=34565&amp;afd=23545&amp;poi=345654&amp;uyt=45678&amp;ifd=123456): failed to open stream: no suitable wrapper could be found in /home2/artscirc/public_html/taaraBackend/confirm.php on line 30
+[31-May-2018 22:56:03 Africa/Nairobi] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home2/artscirc/public_html/taaraBackend/confirm.php on line 31
+[31-May-2018 23:16:00 Africa/Nairobi] PHP Warning:  fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home2/artscirc/public_html/taaraBackend/confirm.php on line 30
+[31-May-2018 23:16:00 Africa/Nairobi] PHP Warning:  fopen(https://www.ipayafrica.com/ipn/?vendor=demo&amp;id=23&amp;ivm=23234&amp;qwh=34565&amp;afd=23545&amp;poi=345654&amp;uyt=45678&amp;ifd=123456): failed to open stream: no suitable wrapper could be found in /home2/artscirc/public_html/taaraBackend/confirm.php on line 30
+[31-May-2018 23:16:00 Africa/Nairobi] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home2/artscirc/public_html/taaraBackend/confirm.php on line 31
+[31-May-2018 23:19:08 Africa/Nairobi] PHP Warning:  Invalid argument supplied for foreach() in /home2/artscirc/public_html/taaraBackend/confirm.php on line 37
+[31-May-2018 23:21:49 Africa/Nairobi] PHP Warning:  Invalid argument supplied for foreach() in /home2/artscirc/public_html/taaraBackend/confirm.php on line 37
+[31-May-2018 23:23:51 Africa/Nairobi] PHP Warning:  Invalid argument supplied for foreach() in /home2/artscirc/public_html/taaraBackend/confirm.php on line 37
+[31-May-2018 23:27:40 Africa/Nairobi] PHP Warning:  Invalid argument supplied for foreach() in /home2/artscirc/public_html/taaraBackend/confirm.php on line 37
+[31-May-2018 23:29:04 Africa/Nairobi] PHP Warning:  Invalid argument supplied for foreach() in /home2/artscirc/public_html/taaraBackend/confirm.php on line 37
+[31-May-2018 23:30:26 Africa/Nairobi] PHP Warning:  Invalid argument supplied for foreach() in /home2/artscirc/public_html/taaraBackend/confirm.php on line 37
+[31-May-2018 23:34:58 Africa/Nairobi] PHP Warning:  Invalid argument supplied for foreach() in /home2/artscirc/public_html/taaraBackend/confirm.php on line 37
+[31-May-2018 23:37:33 Africa/Nairobi] PHP Warning:  Invalid argument supplied for foreach() in /home2/artscirc/public_html/taaraBackend/confirm.php on line 38
+[31-May-2018 21:20:29 UTC] PHP Parse error:  syntax error, unexpected '$orderId' (T_VARIABLE), expecting ',' or ')' in /home2/artscirc/public_html/taaraBackend/index.php on line 184
+[31-May-2018 21:21:02 UTC] PHP Parse error:  syntax error, unexpected '$orderId' (T_VARIABLE), expecting ',' or ')' in /home2/artscirc/public_html/taaraBackend/index.php on line 184
+[31-May-2018 21:21:48 UTC] PHP Parse error:  syntax error, unexpected '$orderId' (T_VARIABLE), expecting ',' or ')' in /home2/artscirc/public_html/taaraBackend/index.php on line 184
+[31-May-2018 21:22:28 UTC] PHP Parse error:  syntax error, unexpected '$orderId' (T_VARIABLE), expecting ',' or ')' in /home2/artscirc/public_html/taaraBackend/index.php on line 184
+[31-May-2018 21:22:56 UTC] PHP Parse error:  syntax error, unexpected '$orderId' (T_VARIABLE), expecting ',' or ')' in /home2/artscirc/public_html/taaraBackend/index.php on line 184
+[31-May-2018 21:23:33 UTC] PHP Parse error:  syntax error, unexpected '$orderId' (T_VARIABLE), expecting ',' or ')' in /home2/artscirc/public_html/taaraBackend/index.php on line 184
+[01-Jun-2018 00:34:58 Africa/Nairobi] PHP Warning:  fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home2/artscirc/public_html/taaraBackend/confirm.php on line 31
+[01-Jun-2018 00:34:58 Africa/Nairobi] PHP Warning:  fopen(https://www.ipayafrica.com/ipn/?vendor=demo&amp;id=823300810260110CZ7Z0D2U1O&amp;ivm=823300810260110CZ7Z0D2U1O&amp;qwh=1243552146&amp;afd=1362663553&amp;poi=1124334125&amp;uyt=1269312621&amp;ifd=569907047): failed to open stream: no suitable wrapper could be found in /home2/artscirc/public_html/taaraBackend/confirm.php on line 31
+[01-Jun-2018 00:34:58 Africa/Nairobi] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home2/artscirc/public_html/taaraBackend/confirm.php on line 32
+[05-Jun-2018 00:57:22 Africa/Nairobi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/artscirc/public_html/taaraBackend/recents.php on line 76
+[05-Jun-2018 00:57:50 Africa/Nairobi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/artscirc/public_html/taaraBackend/recents.php on line 76
