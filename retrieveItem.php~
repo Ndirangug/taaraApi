@@ -13,7 +13,7 @@
 
     //function to retrieve specific item form specific store
     function retrieveProductOccurrence($rfid, $storeID, $conn, $openLogFile){
-        $retrieveOccurrenceQuery = "SELECT * FROM product_occurrence WHERE storeID='$storeID' && rfid='$rfid'";
+        $retrieveOccurrenceQuery = "SELECT occurrenceID, rfid, barcode, price, VAT FROM product_occurrence WHERE storeID='$storeID' && rfid='$rfid'";
         $executeRetrieve = mysqli_query($conn, $retrieveOccurrenceQuery);
         $returnValue;
         if(mysqli_num_rows($executeRetrieve) > 0){

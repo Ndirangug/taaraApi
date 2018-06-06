@@ -143,6 +143,11 @@ function output($data){
                  writeLog("Retrieve prodcut occurrence rfid:".$_GET['rfid']." storeId".$_GET['storeID'] . json_decode($output).mysqli_error($conn), $openLogFile);
                 break;
 
+            case 'compare':
+                writeLog("Attempt to get product comparisons", $openLogFile);
+                echo productCompareRetrieve($_GET['barcode'], $conn, $openLogFile);
+                break;    
+
             case 'markItemPaid':
                 $output = output(markPaid($_GET['rfid'], $_GET['storeID'],  $conn, $openLogFile));
                 writeLog("Mark item as paid rfid:".$_GET['rfid']." storeId".$_GET['storeID']." " . json_decode($output).mysqli_error($conn), $openLogFile);
@@ -256,6 +261,7 @@ function output($data){
             case 'allhistory':
             writeLog("attempt to get all history for userID: ".$_GET['userID'], $openLogFile);
             echo allRecents($_GET['userID'], $conn, $openLogFile);
+       
                 break;        
 
             default:

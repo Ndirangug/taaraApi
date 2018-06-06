@@ -2418,3 +2418,2160 @@
 [Tue 5-Jun-2018, 11:23:36 am] File 'log.txt' opened successfully
 [Tue 5-Jun-2018, 11:23:36 am] Database connection success for taara
 [Tue 5-Jun-2018, 11:23:36 am] attempt to get all history for userID: 9
+[Tue 5-Jun-2018, 11:25:27 am] File 'log.txt' opened successfully
+[Tue 5-Jun-2018, 11:25:27 am] Database connection success for taara
+[Tue 5-Jun-2018, 11:25:27 am] attempt to get all history for userID: null
+[Tue 5-Jun-2018, 11:25:27 am] User checkouts rertieval failed
+[Tue 5-Jun-2018, 11:32:01 am] File 'log.txt' opened successfully
+[Tue 5-Jun-2018, 11:32:01 am] Database connection success for taara
+[Tue 5-Jun-2018, 11:32:01 am] attempt to get all history for userID: 9
+[Tue 5-Jun-2018, 11:32:19 am] File 'log.txt' opened successfully
+[Tue 5-Jun-2018, 11:32:19 am] Database connection success for taara
+[Tue 5-Jun-2018, 11:32:19 am] attempt to get all history for userID: 9
+[Tue 5-Jun-2018, 11:33:39 am] File 'log.txt' opened successfully
+[Tue 5-Jun-2018, 11:33:39 am] Database connection success for taara
+[Tue 5-Jun-2018, 11:33:39 am] attempt to get all history for userID: 9
+[Tue 5-Jun-2018, 11:33:42 am] File 'log.txt' opened successfully
+[Tue 5-Jun-2018, 11:33:42 am] Database connection success for taara
+[Tue 5-Jun-2018, 11:33:42 am] attempt to get all history for userID: 9
+[Tue 5-Jun-2018, 11:34:40 am] File 'log.txt' opened successfully
+[Tue 5-Jun-2018, 11:34:40 am] Database connection success for taara
+[Tue 5-Jun-2018, 11:34:40 am] attempt to get all history for userID: 9
+[Tue 5-Jun-2018, 11:42:40 am] File 'log.txt' opened successfully
+[Tue 5-Jun-2018, 11:42:40 am] Database connection success for taara
+[Tue 5-Jun-2018, 11:42:40 am] attempt to get all history for userID: null
+[Tue 5-Jun-2018, 11:42:40 am] User checkouts rertieval failed
+[Tue 5-Jun-2018, 11:43:29 am] File 'log.txt' opened successfully
+[Tue 5-Jun-2018, 11:43:29 am] Database connection success for taara
+[Tue 5-Jun-2018, 11:43:29 am] attempt to get all history for userID: null
+[Tue 5-Jun-2018, 11:43:29 am] User checkouts rertieval failed
+[Tue 5-Jun-2018, 11:44:20 am] File 'log.txt' opened successfully
+[Tue 5-Jun-2018, 11:44:20 am] Database connection success for taara
+[Tue 5-Jun-2018, 11:44:20 am] attempt to get all history for userID: 9
+[Tue 5-Jun-2018, 11:46:33 am] File 'log.txt' opened successfully
+[Tue 5-Jun-2018, 11:46:33 am] Database connection success for taara
+[Tue 5-Jun-2018, 11:46:33 am] attempt to get all history for userID: null
+[Tue 5-Jun-2018, 11:46:33 am] User checkouts rertieval failed
+[Tue 5-Jun-2018, 11:46:44 am] File 'log.txt' opened successfully
+[Tue 5-Jun-2018, 11:46:44 am] Database connection success for taara
+[Tue 5-Jun-2018, 11:46:44 am] attempt to get all history for userID: 9
+[Tue 5-Jun-2018, 11:50:36 am] File 'log.txt' opened successfully
+[Tue 5-Jun-2018, 11:50:36 am] Database connection success for taara
+[Tue 5-Jun-2018, 11:50:36 am] attempt to get all history for userID: null
+[Tue 5-Jun-2018, 11:50:36 am] User checkouts rertieval failed
+[Tue 5-Jun-2018, 11:51:56 am] File 'log.txt' opened successfully
+[Tue 5-Jun-2018, 11:51:56 am] Database connection success for taara
+[Tue 5-Jun-2018, 11:51:56 am] attempt to get all history for userID: null
+[Tue 5-Jun-2018, 11:51:56 am] User checkouts rertieval failed
+[Tue 5-Jun-2018, 11:52:42 am] File 'log.txt' opened successfully
+[Tue 5-Jun-2018, 11:52:42 am] Database connection success for taara
+[Tue 5-Jun-2018, 11:52:42 am] attempt to get all history for userID: 9
+[Tue 5-Jun-2018, 11:55:29 am] File 'log.txt' opened successfully
+[Tue 5-Jun-2018, 11:55:29 am] Database connection success for taara
+[Tue 5-Jun-2018, 11:55:29 am] User Wachiraaa retrieved successfully
+[Tue 5-Jun-2018, 11:55:29 am] user ndirangu.mepawa@outlook.com retrieval 
+[Tue 5-Jun-2018, 11:55:33 am] File 'log.txt' opened successfully
+[Tue 5-Jun-2018, 11:55:33 am] Database connection success for taara
+[Tue 5-Jun-2018, 11:55:33 am] attempt to get all history for userID: 9
+[Tue 5-Jun-2018, 12:10:22 pm] File 'log.txt' opened successfully
+[Tue 5-Jun-2018, 12:10:22 pm] Database connection success for taara
+[Tue 5-Jun-2018, 12:10:22 pm] attempt to get all history for userID: null
+[Tue 5-Jun-2018, 12:10:22 pm] User checkouts rertieval failed
+[Tue 5-Jun-2018, 12:17:24 pm] File 'log.txt' opened successfully
+[Tue 5-Jun-2018, 12:17:24 pm] Database connection success for taara
+[Tue 5-Jun-2018, 12:17:24 pm] attempt to get all history for userID: 10
+[Tue 5-Jun-2018, 12:19:15 pm] File 'log.txt' opened successfully
+[Tue 5-Jun-2018, 12:19:15 pm] Database connection success for taara
+[Tue 5-Jun-2018, 12:19:15 pm] attempt to get all history for userID: null
+[Tue 5-Jun-2018, 12:19:15 pm] User checkouts rertieval failed
+[Tue 5-Jun-2018, 12:36:59 pm] File 'log.txt' opened successfully
+[Tue 5-Jun-2018, 12:36:59 pm] Database connection success for taara
+[Tue 5-Jun-2018, 12:36:59 pm] User George retrieved successfully
+[Tue 5-Jun-2018, 12:36:59 pm] user ndirangu.mepawa@gmail.com retrieval 
+[Tue 5-Jun-2018, 12:38:18 pm] File 'log.txt' opened successfully
+[Tue 5-Jun-2018, 12:38:18 pm] Database connection success for taara
+[Tue 5-Jun-2018, 12:38:18 pm] User George retrieved successfully
+[Tue 5-Jun-2018, 12:38:18 pm] user ndirangu.mepawa@gmail.com retrieval 
+[Tue 5-Jun-2018, 03:58:13 pm] File 'log.txt' opened successfully
+[Tue 5-Jun-2018, 03:58:13 pm] Database connection success for taara
+[Tue 5-Jun-2018, 03:58:13 pm] attempt to get all history for userID: 9
+[Tue 5-Jun-2018, 04:21:47 pm] File 'log.txt' opened successfully
+[Tue 5-Jun-2018, 04:21:47 pm] Database connection success for taara
+[Tue 5-Jun-2018, 04:21:47 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 09:03:44 am] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 09:03:44 am] Database connection success for taara
+[Wed 6-Jun-2018, 09:03:44 am] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 09:31:14 am] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 09:31:14 am] Database connection success for taara
+[Wed 6-Jun-2018, 09:31:14 am] Attempt to get product comparisons
+[Wed 6-Jun-2018, 09:31:14 am] Product occurrence 41 successfully retrieved
+[Wed 6-Jun-2018, 09:31:14 am] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 09:31:14 am] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 09:31:14 am] Product occurrence 42 successfully retrieved
+[Wed 6-Jun-2018, 09:31:14 am] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 09:31:14 am] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 09:31:14 am] Product occurrence 43 successfully retrieved
+[Wed 6-Jun-2018, 09:31:14 am] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 09:31:14 am] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 09:31:14 am] Product occurrence 44 successfully retrieved
+[Wed 6-Jun-2018, 09:31:14 am] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 09:31:14 am] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 09:31:14 am] Product occurrence 51 successfully retrieved
+[Wed 6-Jun-2018, 09:31:14 am] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 09:31:14 am] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 09:32:25 am] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 09:32:25 am] Database connection success for taara
+[Wed 6-Jun-2018, 09:32:25 am] Attempt to get product comparisons
+[Wed 6-Jun-2018, 09:32:25 am] Product occurrence 41 successfully retrieved
+[Wed 6-Jun-2018, 09:32:25 am] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 09:32:25 am] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 09:32:25 am] Product occurrence 42 successfully retrieved
+[Wed 6-Jun-2018, 09:32:25 am] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 09:32:25 am] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 09:32:25 am] Product occurrence 43 successfully retrieved
+[Wed 6-Jun-2018, 09:32:25 am] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 09:32:25 am] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 09:32:25 am] Product occurrence 44 successfully retrieved
+[Wed 6-Jun-2018, 09:32:25 am] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 09:32:25 am] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 09:32:25 am] Product occurrence 51 successfully retrieved
+[Wed 6-Jun-2018, 09:32:25 am] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 09:32:25 am] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 09:43:02 am] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 09:43:02 am] Database connection success for taara
+[Wed 6-Jun-2018, 09:43:02 am] Attempt to get product comparisons
+[Wed 6-Jun-2018, 09:43:02 am] Product occurrence 41 successfully retrieved
+[Wed 6-Jun-2018, 09:43:02 am] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 09:43:02 am] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 09:43:02 am] Product occurrence 42 successfully retrieved
+[Wed 6-Jun-2018, 09:43:02 am] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 09:43:02 am] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 09:43:02 am] Product occurrence 43 successfully retrieved
+[Wed 6-Jun-2018, 09:43:02 am] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 09:43:02 am] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 09:43:02 am] Product occurrence 44 successfully retrieved
+[Wed 6-Jun-2018, 09:43:02 am] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 09:43:02 am] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 09:43:02 am] Product occurrence 51 successfully retrieved
+[Wed 6-Jun-2018, 09:43:02 am] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 09:43:02 am] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 10:27:08 am] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 10:27:08 am] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 10:27:10 am] Database connection success for taara
+[Wed 6-Jun-2018, 10:27:10 am] Database connection success for taara
+[Wed 6-Jun-2018, 10:27:11 am] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 10:27:11 am] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 10:27:37 am] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 10:27:37 am] Database connection success for taara
+[Wed 6-Jun-2018, 10:27:37 am] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 11:06:40 am] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 11:06:41 am] Database connection success for taara
+[Wed 6-Jun-2018, 11:06:41 am] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 11:06:41 am] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 11:06:41 am] Database connection success for taara
+[Wed 6-Jun-2018, 11:06:41 am] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 11:06:48 am] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 11:06:48 am] Database connection success for taara
+[Wed 6-Jun-2018, 11:06:48 am] Attempt to get product comparisons
+[Wed 6-Jun-2018, 11:06:48 am] Product occurrence 45 successfully retrieved
+[Wed 6-Jun-2018, 11:06:48 am] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 11:06:48 am] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 11:06:48 am] Product occurrence 46 successfully retrieved
+[Wed 6-Jun-2018, 11:06:48 am] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 11:06:48 am] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 11:06:48 am] Product occurrence 47 successfully retrieved
+[Wed 6-Jun-2018, 11:06:48 am] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 11:06:48 am] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 11:06:48 am] Product occurrence 48 successfully retrieved
+[Wed 6-Jun-2018, 11:06:48 am] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 11:06:48 am] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 11:06:48 am] Product occurrence 49 successfully retrieved
+[Wed 6-Jun-2018, 11:06:48 am] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 11:06:48 am] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 11:06:51 am] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 11:06:51 am] Database connection success for taara
+[Wed 6-Jun-2018, 11:06:51 am] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 11:15:51 am] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 11:15:51 am] Database connection success for taara
+[Wed 6-Jun-2018, 11:15:51 am] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 11:16:01 am] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 11:16:01 am] Database connection success for taara
+[Wed 6-Jun-2018, 11:16:01 am] Attempt to get product comparisons
+[Wed 6-Jun-2018, 11:16:01 am] Product occurrence 45 successfully retrieved
+[Wed 6-Jun-2018, 11:16:01 am] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 11:16:01 am] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 11:16:01 am] Product occurrence 46 successfully retrieved
+[Wed 6-Jun-2018, 11:16:01 am] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 11:16:01 am] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 11:16:01 am] Product occurrence 47 successfully retrieved
+[Wed 6-Jun-2018, 11:16:01 am] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 11:16:01 am] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 11:16:01 am] Product occurrence 48 successfully retrieved
+[Wed 6-Jun-2018, 11:16:01 am] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 11:16:01 am] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 11:16:01 am] Product occurrence 49 successfully retrieved
+[Wed 6-Jun-2018, 11:16:01 am] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 11:16:01 am] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 11:16:04 am] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 11:16:04 am] Database connection success for taara
+[Wed 6-Jun-2018, 11:16:04 am] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 11:18:39 am] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 11:18:39 am] Database connection success for taara
+[Wed 6-Jun-2018, 11:18:39 am] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 11:18:42 am] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 11:18:42 am] Database connection success for taara
+[Wed 6-Jun-2018, 11:18:42 am] Attempt to get product comparisons
+[Wed 6-Jun-2018, 11:18:42 am] Product occurrence 45 successfully retrieved
+[Wed 6-Jun-2018, 11:18:42 am] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 11:18:42 am] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 11:18:42 am] Product occurrence 46 successfully retrieved
+[Wed 6-Jun-2018, 11:18:42 am] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 11:18:42 am] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 11:18:42 am] Product occurrence 47 successfully retrieved
+[Wed 6-Jun-2018, 11:18:42 am] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 11:18:42 am] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 11:18:42 am] Product occurrence 48 successfully retrieved
+[Wed 6-Jun-2018, 11:18:42 am] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 11:18:42 am] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 11:18:42 am] Product occurrence 49 successfully retrieved
+[Wed 6-Jun-2018, 11:18:42 am] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 11:18:42 am] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 11:18:45 am] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 11:18:45 am] Database connection success for taara
+[Wed 6-Jun-2018, 11:18:45 am] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 11:23:37 am] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 11:23:37 am] Database connection success for taara
+[Wed 6-Jun-2018, 11:23:37 am] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 11:23:41 am] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 11:23:41 am] Database connection success for taara
+[Wed 6-Jun-2018, 11:23:41 am] Attempt to get product comparisons
+[Wed 6-Jun-2018, 11:23:41 am] Product occurrence 45 successfully retrieved
+[Wed 6-Jun-2018, 11:23:41 am] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 11:23:41 am] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 11:23:41 am] Product occurrence 46 successfully retrieved
+[Wed 6-Jun-2018, 11:23:41 am] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 11:23:41 am] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 11:23:41 am] Product occurrence 47 successfully retrieved
+[Wed 6-Jun-2018, 11:23:41 am] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 11:23:41 am] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 11:23:41 am] Product occurrence 48 successfully retrieved
+[Wed 6-Jun-2018, 11:23:41 am] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 11:23:41 am] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 11:23:41 am] Product occurrence 49 successfully retrieved
+[Wed 6-Jun-2018, 11:23:41 am] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 11:23:41 am] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 11:23:44 am] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 11:23:44 am] Database connection success for taara
+[Wed 6-Jun-2018, 11:23:44 am] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 11:30:30 am] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 11:30:30 am] Database connection success for taara
+[Wed 6-Jun-2018, 11:30:30 am] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 11:30:32 am] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 11:30:32 am] Database connection success for taara
+[Wed 6-Jun-2018, 11:30:32 am] Attempt to get product comparisons
+[Wed 6-Jun-2018, 11:30:32 am] Product occurrence 45 successfully retrieved
+[Wed 6-Jun-2018, 11:30:32 am] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 11:30:32 am] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 11:30:32 am] Product occurrence 46 successfully retrieved
+[Wed 6-Jun-2018, 11:30:32 am] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 11:30:32 am] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 11:30:32 am] Product occurrence 47 successfully retrieved
+[Wed 6-Jun-2018, 11:30:32 am] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 11:30:32 am] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 11:30:32 am] Product occurrence 48 successfully retrieved
+[Wed 6-Jun-2018, 11:30:32 am] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 11:30:32 am] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 11:30:32 am] Product occurrence 49 successfully retrieved
+[Wed 6-Jun-2018, 11:30:32 am] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 11:30:32 am] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 11:30:35 am] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 11:30:35 am] Database connection success for taara
+[Wed 6-Jun-2018, 11:30:35 am] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 11:31:40 am] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 11:31:40 am] Database connection success for taara
+[Wed 6-Jun-2018, 11:31:40 am] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 11:31:47 am] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 11:31:47 am] Database connection success for taara
+[Wed 6-Jun-2018, 11:31:47 am] Attempt to get product comparisons
+[Wed 6-Jun-2018, 11:31:47 am] Product occurrence 45 successfully retrieved
+[Wed 6-Jun-2018, 11:31:47 am] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 11:31:47 am] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 11:31:47 am] Product occurrence 46 successfully retrieved
+[Wed 6-Jun-2018, 11:31:47 am] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 11:31:47 am] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 11:31:47 am] Product occurrence 47 successfully retrieved
+[Wed 6-Jun-2018, 11:31:47 am] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 11:31:47 am] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 11:31:47 am] Product occurrence 48 successfully retrieved
+[Wed 6-Jun-2018, 11:31:47 am] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 11:31:47 am] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 11:31:47 am] Product occurrence 49 successfully retrieved
+[Wed 6-Jun-2018, 11:31:47 am] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 11:31:47 am] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 11:31:50 am] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 11:31:50 am] Database connection success for taara
+[Wed 6-Jun-2018, 11:31:50 am] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 11:33:09 am] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 11:33:09 am] Database connection success for taara
+[Wed 6-Jun-2018, 11:33:09 am] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 11:47:24 am] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 11:47:24 am] Database connection success for taara
+[Wed 6-Jun-2018, 11:47:24 am] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 11:47:32 am] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 11:47:32 am] Database connection success for taara
+[Wed 6-Jun-2018, 11:47:32 am] Attempt to get product comparisons
+[Wed 6-Jun-2018, 11:47:32 am] Product occurrence 45 successfully retrieved
+[Wed 6-Jun-2018, 11:47:32 am] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 11:47:32 am] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 11:47:32 am] Product occurrence 46 successfully retrieved
+[Wed 6-Jun-2018, 11:47:32 am] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 11:47:32 am] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 11:47:32 am] Product occurrence 47 successfully retrieved
+[Wed 6-Jun-2018, 11:47:32 am] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 11:47:32 am] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 11:47:32 am] Product occurrence 48 successfully retrieved
+[Wed 6-Jun-2018, 11:47:32 am] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 11:47:32 am] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 11:47:32 am] Product occurrence 49 successfully retrieved
+[Wed 6-Jun-2018, 11:47:32 am] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 11:47:32 am] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 11:47:35 am] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 11:47:35 am] Database connection success for taara
+[Wed 6-Jun-2018, 11:47:35 am] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 12:12:21 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 12:12:22 pm] Database connection success for taara
+[Wed 6-Jun-2018, 12:12:22 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 12:12:26 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 12:12:26 pm] Database connection success for taara
+[Wed 6-Jun-2018, 12:12:26 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 12:12:26 pm] Product occurrence 41 successfully retrieved
+[Wed 6-Jun-2018, 12:12:26 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 12:12:26 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 12:12:26 pm] Product occurrence 42 successfully retrieved
+[Wed 6-Jun-2018, 12:12:26 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 12:12:26 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 12:12:26 pm] Product occurrence 43 successfully retrieved
+[Wed 6-Jun-2018, 12:12:26 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 12:12:26 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 12:12:26 pm] Product occurrence 44 successfully retrieved
+[Wed 6-Jun-2018, 12:12:26 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 12:12:26 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 12:12:26 pm] Product occurrence 51 successfully retrieved
+[Wed 6-Jun-2018, 12:12:26 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 12:12:26 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 12:12:30 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 12:12:30 pm] Database connection success for taara
+[Wed 6-Jun-2018, 12:12:30 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 12:15:29 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 12:15:29 pm] Database connection success for taara
+[Wed 6-Jun-2018, 12:15:29 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 12:15:32 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 12:15:32 pm] Database connection success for taara
+[Wed 6-Jun-2018, 12:15:32 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 12:15:32 pm] Product occurrence 41 successfully retrieved
+[Wed 6-Jun-2018, 12:15:32 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 12:15:32 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 12:15:32 pm] Product occurrence 42 successfully retrieved
+[Wed 6-Jun-2018, 12:15:32 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 12:15:32 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 12:15:32 pm] Product occurrence 43 successfully retrieved
+[Wed 6-Jun-2018, 12:15:32 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 12:15:32 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 12:15:32 pm] Product occurrence 44 successfully retrieved
+[Wed 6-Jun-2018, 12:15:32 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 12:15:32 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 12:15:32 pm] Product occurrence 51 successfully retrieved
+[Wed 6-Jun-2018, 12:15:32 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 12:15:32 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 12:15:35 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 12:15:35 pm] Database connection success for taara
+[Wed 6-Jun-2018, 12:15:35 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 12:15:43 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 12:15:43 pm] Database connection success for taara
+[Wed 6-Jun-2018, 12:15:43 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 12:16:36 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 12:16:36 pm] Database connection success for taara
+[Wed 6-Jun-2018, 12:16:36 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 01:01:48 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:01:48 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:01:50 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:01:50 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:01:50 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 01:01:50 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 01:02:38 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:02:38 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:02:38 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 01:02:53 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:02:53 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:02:53 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 01:05:21 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:05:21 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:05:21 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 01:05:26 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:05:26 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:05:26 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 01:05:26 pm] Product occurrence 45 successfully retrieved
+[Wed 6-Jun-2018, 01:05:26 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:05:26 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 01:05:26 pm] Product occurrence 46 successfully retrieved
+[Wed 6-Jun-2018, 01:05:26 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:05:26 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 01:05:26 pm] Product occurrence 47 successfully retrieved
+[Wed 6-Jun-2018, 01:05:26 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:05:26 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 01:05:26 pm] Product occurrence 48 successfully retrieved
+[Wed 6-Jun-2018, 01:05:26 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:05:26 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 01:05:26 pm] Product occurrence 49 successfully retrieved
+[Wed 6-Jun-2018, 01:05:26 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:05:26 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 01:05:29 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:05:29 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:05:29 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 01:05:36 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:05:36 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:05:36 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 01:10:29 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:10:29 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:10:29 pm] User George retrieved successfully
+[Wed 6-Jun-2018, 01:10:29 pm] user ndirangu.mepawa@gmail.com retrieval 
+[Wed 6-Jun-2018, 01:10:36 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:10:36 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:10:36 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 01:10:44 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:10:44 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:10:44 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 01:10:44 pm] Product occurrence 45 successfully retrieved
+[Wed 6-Jun-2018, 01:10:44 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:10:44 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 01:10:44 pm] Product occurrence 46 successfully retrieved
+[Wed 6-Jun-2018, 01:10:44 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:10:44 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 01:10:44 pm] Product occurrence 47 successfully retrieved
+[Wed 6-Jun-2018, 01:10:44 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:10:44 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 01:10:44 pm] Product occurrence 48 successfully retrieved
+[Wed 6-Jun-2018, 01:10:44 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:10:44 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 01:10:44 pm] Product occurrence 49 successfully retrieved
+[Wed 6-Jun-2018, 01:10:44 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:10:44 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 01:20:30 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:20:31 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:20:32 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:20:32 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:20:32 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 01:20:32 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 01:20:54 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:20:54 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:20:54 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 01:20:57 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:20:57 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:20:57 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 01:20:57 pm] Product occurrence 45 successfully retrieved
+[Wed 6-Jun-2018, 01:20:57 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:20:57 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 01:20:57 pm] Product occurrence 46 successfully retrieved
+[Wed 6-Jun-2018, 01:20:57 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:20:57 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 01:20:57 pm] Product occurrence 47 successfully retrieved
+[Wed 6-Jun-2018, 01:20:57 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:20:57 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 01:20:57 pm] Product occurrence 48 successfully retrieved
+[Wed 6-Jun-2018, 01:20:57 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:20:57 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 01:20:57 pm] Product occurrence 49 successfully retrieved
+[Wed 6-Jun-2018, 01:20:57 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:20:57 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 01:21:01 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:21:01 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:21:01 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 01:22:55 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:22:55 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:22:55 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 01:23:00 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:23:00 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:23:00 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 01:23:00 pm] Product occurrence 45 successfully retrieved
+[Wed 6-Jun-2018, 01:23:00 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:23:00 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 01:23:00 pm] Product occurrence 46 successfully retrieved
+[Wed 6-Jun-2018, 01:23:00 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:23:00 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 01:23:00 pm] Product occurrence 47 successfully retrieved
+[Wed 6-Jun-2018, 01:23:00 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:23:00 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 01:23:00 pm] Product occurrence 48 successfully retrieved
+[Wed 6-Jun-2018, 01:23:00 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:23:00 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 01:23:00 pm] Product occurrence 49 successfully retrieved
+[Wed 6-Jun-2018, 01:23:00 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:23:00 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 01:23:04 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:23:04 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:23:04 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 01:23:07 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:23:07 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:23:07 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 01:23:07 pm] Product occurrence 45 successfully retrieved
+[Wed 6-Jun-2018, 01:23:07 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:23:07 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 01:23:07 pm] Product occurrence 46 successfully retrieved
+[Wed 6-Jun-2018, 01:23:07 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:23:07 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 01:23:07 pm] Product occurrence 47 successfully retrieved
+[Wed 6-Jun-2018, 01:23:07 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:23:07 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 01:23:07 pm] Product occurrence 48 successfully retrieved
+[Wed 6-Jun-2018, 01:23:07 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:23:07 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 01:23:07 pm] Product occurrence 49 successfully retrieved
+[Wed 6-Jun-2018, 01:23:07 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:23:07 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 01:23:10 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:23:10 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:23:10 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 01:24:42 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:24:42 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:24:42 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 01:24:47 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:24:47 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:24:47 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 01:24:47 pm] Product occurrence 45 successfully retrieved
+[Wed 6-Jun-2018, 01:24:47 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:24:47 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 01:24:47 pm] Product occurrence 46 successfully retrieved
+[Wed 6-Jun-2018, 01:24:47 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:24:47 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 01:24:47 pm] Product occurrence 47 successfully retrieved
+[Wed 6-Jun-2018, 01:24:47 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:24:47 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 01:24:47 pm] Product occurrence 48 successfully retrieved
+[Wed 6-Jun-2018, 01:24:47 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:24:47 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 01:24:47 pm] Product occurrence 49 successfully retrieved
+[Wed 6-Jun-2018, 01:24:47 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:24:47 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 01:24:51 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:24:51 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:24:51 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 01:29:37 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:29:37 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:29:37 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 01:30:20 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:30:20 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:30:20 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 01:31:02 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:31:02 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:31:02 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 01:31:21 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:31:21 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:31:21 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 01:31:25 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:31:25 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:31:25 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 01:31:25 pm] Product occurrence 45 successfully retrieved
+[Wed 6-Jun-2018, 01:31:25 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:31:25 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 01:31:25 pm] Product occurrence 46 successfully retrieved
+[Wed 6-Jun-2018, 01:31:25 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:31:25 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 01:31:25 pm] Product occurrence 47 successfully retrieved
+[Wed 6-Jun-2018, 01:31:25 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:31:25 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 01:31:25 pm] Product occurrence 48 successfully retrieved
+[Wed 6-Jun-2018, 01:31:25 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:31:25 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 01:31:25 pm] Product occurrence 49 successfully retrieved
+[Wed 6-Jun-2018, 01:31:25 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:31:25 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 01:35:09 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:35:09 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:35:09 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 01:35:12 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:35:12 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:35:12 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 01:35:12 pm] Product occurrence 45 successfully retrieved
+[Wed 6-Jun-2018, 01:35:12 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:35:12 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 01:35:12 pm] Product occurrence 46 successfully retrieved
+[Wed 6-Jun-2018, 01:35:12 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:35:12 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 01:35:12 pm] Product occurrence 47 successfully retrieved
+[Wed 6-Jun-2018, 01:35:12 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:35:12 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 01:35:12 pm] Product occurrence 48 successfully retrieved
+[Wed 6-Jun-2018, 01:35:12 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:35:12 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 01:35:12 pm] Product occurrence 49 successfully retrieved
+[Wed 6-Jun-2018, 01:35:12 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:35:12 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 01:35:16 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:35:16 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:35:16 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 01:38:06 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:38:06 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:38:06 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 01:38:10 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:38:10 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:38:10 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 01:38:10 pm] Product occurrence 41 successfully retrieved
+[Wed 6-Jun-2018, 01:38:10 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 01:38:10 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 01:38:10 pm] Product occurrence 42 successfully retrieved
+[Wed 6-Jun-2018, 01:38:10 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 01:38:10 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 01:38:10 pm] Product occurrence 43 successfully retrieved
+[Wed 6-Jun-2018, 01:38:10 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 01:38:10 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 01:38:10 pm] Product occurrence 44 successfully retrieved
+[Wed 6-Jun-2018, 01:38:10 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 01:38:10 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 01:38:10 pm] Product occurrence 51 successfully retrieved
+[Wed 6-Jun-2018, 01:38:10 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 01:38:10 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 01:41:19 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:41:19 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:41:19 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 01:41:50 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:41:50 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:41:50 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 01:41:53 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:41:53 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:41:53 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 01:41:53 pm] Product occurrence 45 successfully retrieved
+[Wed 6-Jun-2018, 01:41:53 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:41:53 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 01:41:53 pm] Product occurrence 46 successfully retrieved
+[Wed 6-Jun-2018, 01:41:53 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:41:53 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 01:41:53 pm] Product occurrence 47 successfully retrieved
+[Wed 6-Jun-2018, 01:41:53 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:41:53 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 01:41:53 pm] Product occurrence 48 successfully retrieved
+[Wed 6-Jun-2018, 01:41:53 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:41:53 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 01:41:53 pm] Product occurrence 49 successfully retrieved
+[Wed 6-Jun-2018, 01:41:53 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:41:53 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 01:41:57 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:41:57 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:41:57 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 01:42:42 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:42:42 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:42:42 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 01:42:45 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:42:45 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:42:45 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 01:42:45 pm] Product occurrence 45 successfully retrieved
+[Wed 6-Jun-2018, 01:42:45 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:42:45 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 01:42:45 pm] Product occurrence 46 successfully retrieved
+[Wed 6-Jun-2018, 01:42:45 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:42:45 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 01:42:45 pm] Product occurrence 47 successfully retrieved
+[Wed 6-Jun-2018, 01:42:45 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:42:45 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 01:42:45 pm] Product occurrence 48 successfully retrieved
+[Wed 6-Jun-2018, 01:42:45 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:42:45 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 01:42:45 pm] Product occurrence 49 successfully retrieved
+[Wed 6-Jun-2018, 01:42:45 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:42:45 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 01:42:49 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:42:49 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:42:49 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 01:44:13 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:44:13 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:44:13 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 01:44:16 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:44:16 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:44:16 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 01:44:16 pm] Product occurrence 45 successfully retrieved
+[Wed 6-Jun-2018, 01:44:16 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:44:16 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 01:44:16 pm] Product occurrence 46 successfully retrieved
+[Wed 6-Jun-2018, 01:44:16 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:44:16 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 01:44:16 pm] Product occurrence 47 successfully retrieved
+[Wed 6-Jun-2018, 01:44:16 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:44:16 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 01:44:16 pm] Product occurrence 48 successfully retrieved
+[Wed 6-Jun-2018, 01:44:16 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:44:16 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 01:44:16 pm] Product occurrence 49 successfully retrieved
+[Wed 6-Jun-2018, 01:44:16 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:44:16 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 01:44:20 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:44:20 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:44:20 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 01:46:32 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:46:32 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:46:32 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 01:46:37 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:46:37 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:46:37 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 01:46:37 pm] Product occurrence 45 successfully retrieved
+[Wed 6-Jun-2018, 01:46:37 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:46:37 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 01:46:37 pm] Product occurrence 46 successfully retrieved
+[Wed 6-Jun-2018, 01:46:37 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:46:37 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 01:46:37 pm] Product occurrence 47 successfully retrieved
+[Wed 6-Jun-2018, 01:46:37 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:46:37 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 01:46:37 pm] Product occurrence 48 successfully retrieved
+[Wed 6-Jun-2018, 01:46:37 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:46:37 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 01:46:37 pm] Product occurrence 49 successfully retrieved
+[Wed 6-Jun-2018, 01:46:37 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:46:37 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 01:46:40 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:46:40 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:46:40 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 01:47:30 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:47:30 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:47:30 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 01:47:35 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:47:35 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:47:35 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 01:47:35 pm] Product occurrence 45 successfully retrieved
+[Wed 6-Jun-2018, 01:47:35 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:47:35 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 01:47:35 pm] Product occurrence 46 successfully retrieved
+[Wed 6-Jun-2018, 01:47:35 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:47:35 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 01:47:35 pm] Product occurrence 47 successfully retrieved
+[Wed 6-Jun-2018, 01:47:35 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:47:35 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 01:47:35 pm] Product occurrence 48 successfully retrieved
+[Wed 6-Jun-2018, 01:47:35 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:47:35 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 01:47:35 pm] Product occurrence 49 successfully retrieved
+[Wed 6-Jun-2018, 01:47:35 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:47:35 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 01:47:38 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:47:38 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:47:38 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 01:48:12 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:48:12 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:48:12 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 01:48:15 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:48:15 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:48:15 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 01:48:15 pm] Product occurrence 45 successfully retrieved
+[Wed 6-Jun-2018, 01:48:15 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:48:15 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 01:48:15 pm] Product occurrence 46 successfully retrieved
+[Wed 6-Jun-2018, 01:48:15 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:48:15 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 01:48:15 pm] Product occurrence 47 successfully retrieved
+[Wed 6-Jun-2018, 01:48:15 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:48:15 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 01:48:15 pm] Product occurrence 48 successfully retrieved
+[Wed 6-Jun-2018, 01:48:15 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:48:15 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 01:48:15 pm] Product occurrence 49 successfully retrieved
+[Wed 6-Jun-2018, 01:48:15 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:48:15 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 01:48:19 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:48:19 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:48:19 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 01:49:19 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:49:19 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:49:19 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 01:49:22 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:49:22 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:49:22 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 01:49:22 pm] Product occurrence 45 successfully retrieved
+[Wed 6-Jun-2018, 01:49:22 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:49:22 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 01:49:22 pm] Product occurrence 46 successfully retrieved
+[Wed 6-Jun-2018, 01:49:22 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:49:22 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 01:49:22 pm] Product occurrence 47 successfully retrieved
+[Wed 6-Jun-2018, 01:49:22 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:49:22 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 01:49:22 pm] Product occurrence 48 successfully retrieved
+[Wed 6-Jun-2018, 01:49:22 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:49:22 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 01:49:22 pm] Product occurrence 49 successfully retrieved
+[Wed 6-Jun-2018, 01:49:22 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:49:22 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 01:50:42 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:50:42 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:50:42 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 01:50:47 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:50:47 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:50:47 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 01:50:47 pm] Product occurrence 45 successfully retrieved
+[Wed 6-Jun-2018, 01:50:47 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:50:47 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 01:50:47 pm] Product occurrence 46 successfully retrieved
+[Wed 6-Jun-2018, 01:50:47 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:50:47 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 01:50:47 pm] Product occurrence 47 successfully retrieved
+[Wed 6-Jun-2018, 01:50:47 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:50:47 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 01:50:47 pm] Product occurrence 48 successfully retrieved
+[Wed 6-Jun-2018, 01:50:47 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:50:47 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 01:50:47 pm] Product occurrence 49 successfully retrieved
+[Wed 6-Jun-2018, 01:50:47 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:50:47 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 01:50:51 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:50:51 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:50:51 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 01:51:57 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:51:57 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:51:57 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 01:52:07 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:52:07 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:52:07 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 01:52:07 pm] Product occurrence 45 successfully retrieved
+[Wed 6-Jun-2018, 01:52:07 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:52:07 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 01:52:07 pm] Product occurrence 46 successfully retrieved
+[Wed 6-Jun-2018, 01:52:07 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:52:07 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 01:52:07 pm] Product occurrence 47 successfully retrieved
+[Wed 6-Jun-2018, 01:52:07 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:52:07 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 01:52:07 pm] Product occurrence 48 successfully retrieved
+[Wed 6-Jun-2018, 01:52:07 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:52:07 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 01:52:07 pm] Product occurrence 49 successfully retrieved
+[Wed 6-Jun-2018, 01:52:07 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:52:07 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 01:53:06 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:53:06 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:53:06 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 01:53:33 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:53:33 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:53:33 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 01:53:43 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:53:43 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:53:43 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 01:53:43 pm] Product occurrence 45 successfully retrieved
+[Wed 6-Jun-2018, 01:53:43 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:53:43 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 01:53:43 pm] Product occurrence 46 successfully retrieved
+[Wed 6-Jun-2018, 01:53:43 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:53:43 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 01:53:43 pm] Product occurrence 47 successfully retrieved
+[Wed 6-Jun-2018, 01:53:43 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:53:43 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 01:53:43 pm] Product occurrence 48 successfully retrieved
+[Wed 6-Jun-2018, 01:53:43 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:53:43 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 01:53:43 pm] Product occurrence 49 successfully retrieved
+[Wed 6-Jun-2018, 01:53:43 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:53:43 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 01:53:46 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:53:46 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:53:46 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 01:53:48 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:53:48 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:53:48 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 01:53:48 pm] Product occurrence 45 successfully retrieved
+[Wed 6-Jun-2018, 01:53:48 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:53:48 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 01:53:48 pm] Product occurrence 46 successfully retrieved
+[Wed 6-Jun-2018, 01:53:48 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:53:48 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 01:53:48 pm] Product occurrence 47 successfully retrieved
+[Wed 6-Jun-2018, 01:53:48 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:53:48 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 01:53:48 pm] Product occurrence 48 successfully retrieved
+[Wed 6-Jun-2018, 01:53:48 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:53:48 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 01:53:48 pm] Product occurrence 49 successfully retrieved
+[Wed 6-Jun-2018, 01:53:48 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:53:48 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 01:53:51 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:53:51 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:53:51 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 01:53:53 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:53:53 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:53:53 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 01:53:53 pm] Product occurrence 45 successfully retrieved
+[Wed 6-Jun-2018, 01:53:53 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:53:53 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 01:53:53 pm] Product occurrence 46 successfully retrieved
+[Wed 6-Jun-2018, 01:53:53 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:53:53 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 01:53:53 pm] Product occurrence 47 successfully retrieved
+[Wed 6-Jun-2018, 01:53:53 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:53:53 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 01:53:53 pm] Product occurrence 48 successfully retrieved
+[Wed 6-Jun-2018, 01:53:53 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:53:53 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 01:53:53 pm] Product occurrence 49 successfully retrieved
+[Wed 6-Jun-2018, 01:53:53 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:53:53 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 01:53:56 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:53:56 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:53:56 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 01:54:18 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:54:18 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:54:18 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 01:54:18 pm] Product occurrence 45 successfully retrieved
+[Wed 6-Jun-2018, 01:54:18 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:54:18 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 01:54:18 pm] Product occurrence 46 successfully retrieved
+[Wed 6-Jun-2018, 01:54:18 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:54:18 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 01:54:18 pm] Product occurrence 47 successfully retrieved
+[Wed 6-Jun-2018, 01:54:18 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:54:18 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 01:54:18 pm] Product occurrence 48 successfully retrieved
+[Wed 6-Jun-2018, 01:54:18 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:54:18 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 01:54:18 pm] Product occurrence 49 successfully retrieved
+[Wed 6-Jun-2018, 01:54:18 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 01:54:18 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 01:54:21 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:54:21 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:54:21 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 01:55:06 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:55:06 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:55:06 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 01:55:09 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:55:09 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:55:09 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 01:55:09 pm] Product occurrence 41 successfully retrieved
+[Wed 6-Jun-2018, 01:55:09 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 01:55:09 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 01:55:09 pm] Product occurrence 42 successfully retrieved
+[Wed 6-Jun-2018, 01:55:09 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 01:55:09 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 01:55:09 pm] Product occurrence 43 successfully retrieved
+[Wed 6-Jun-2018, 01:55:09 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 01:55:09 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 01:55:09 pm] Product occurrence 44 successfully retrieved
+[Wed 6-Jun-2018, 01:55:09 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 01:55:09 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 01:55:09 pm] Product occurrence 51 successfully retrieved
+[Wed 6-Jun-2018, 01:55:09 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 01:55:09 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 01:56:23 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:56:23 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:56:23 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 01:56:23 pm] Product occurrence 41 successfully retrieved
+[Wed 6-Jun-2018, 01:56:23 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 01:56:23 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 01:56:23 pm] Product occurrence 42 successfully retrieved
+[Wed 6-Jun-2018, 01:56:23 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 01:56:23 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 01:56:23 pm] Product occurrence 43 successfully retrieved
+[Wed 6-Jun-2018, 01:56:23 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 01:56:23 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 01:56:23 pm] Product occurrence 44 successfully retrieved
+[Wed 6-Jun-2018, 01:56:23 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 01:56:23 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 01:56:23 pm] Product occurrence 51 successfully retrieved
+[Wed 6-Jun-2018, 01:56:23 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 01:56:23 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 01:56:31 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 01:56:31 pm] Database connection success for taara
+[Wed 6-Jun-2018, 01:56:31 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 01:56:31 pm] Product occurrence 41 successfully retrieved
+[Wed 6-Jun-2018, 01:56:31 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 01:56:31 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 01:56:31 pm] Product occurrence 42 successfully retrieved
+[Wed 6-Jun-2018, 01:56:31 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 01:56:31 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 01:56:31 pm] Product occurrence 43 successfully retrieved
+[Wed 6-Jun-2018, 01:56:31 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 01:56:31 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 01:56:31 pm] Product occurrence 44 successfully retrieved
+[Wed 6-Jun-2018, 01:56:31 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 01:56:31 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 01:56:31 pm] Product occurrence 51 successfully retrieved
+[Wed 6-Jun-2018, 01:56:31 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 01:56:31 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 02:01:31 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 02:01:31 pm] Database connection success for taara
+[Wed 6-Jun-2018, 02:01:31 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 02:01:35 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 02:01:35 pm] Database connection success for taara
+[Wed 6-Jun-2018, 02:01:35 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 02:01:35 pm] Product occurrence 45 successfully retrieved
+[Wed 6-Jun-2018, 02:01:35 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 02:01:35 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 02:01:35 pm] Product occurrence 46 successfully retrieved
+[Wed 6-Jun-2018, 02:01:35 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 02:01:35 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 02:01:35 pm] Product occurrence 47 successfully retrieved
+[Wed 6-Jun-2018, 02:01:35 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 02:01:35 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 02:01:35 pm] Product occurrence 48 successfully retrieved
+[Wed 6-Jun-2018, 02:01:35 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 02:01:35 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 02:01:35 pm] Product occurrence 49 successfully retrieved
+[Wed 6-Jun-2018, 02:01:35 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 02:01:35 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 02:01:38 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 02:01:38 pm] Database connection success for taara
+[Wed 6-Jun-2018, 02:01:38 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 02:03:33 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 02:03:33 pm] Database connection success for taara
+[Wed 6-Jun-2018, 02:03:33 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 02:03:37 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 02:03:37 pm] Database connection success for taara
+[Wed 6-Jun-2018, 02:03:37 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 02:03:37 pm] Product occurrence 45 successfully retrieved
+[Wed 6-Jun-2018, 02:03:37 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 02:03:37 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 02:03:37 pm] Product occurrence 46 successfully retrieved
+[Wed 6-Jun-2018, 02:03:37 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 02:03:37 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 02:03:37 pm] Product occurrence 47 successfully retrieved
+[Wed 6-Jun-2018, 02:03:37 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 02:03:37 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 02:03:37 pm] Product occurrence 48 successfully retrieved
+[Wed 6-Jun-2018, 02:03:37 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 02:03:37 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 02:03:37 pm] Product occurrence 49 successfully retrieved
+[Wed 6-Jun-2018, 02:03:37 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 02:03:37 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 02:03:42 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 02:03:42 pm] Database connection success for taara
+[Wed 6-Jun-2018, 02:03:42 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 02:03:42 pm] Product occurrence 41 successfully retrieved
+[Wed 6-Jun-2018, 02:03:42 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 02:03:42 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 02:03:42 pm] Product occurrence 42 successfully retrieved
+[Wed 6-Jun-2018, 02:03:42 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 02:03:42 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 02:03:42 pm] Product occurrence 43 successfully retrieved
+[Wed 6-Jun-2018, 02:03:42 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 02:03:42 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 02:03:42 pm] Product occurrence 44 successfully retrieved
+[Wed 6-Jun-2018, 02:03:42 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 02:03:42 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 02:03:42 pm] Product occurrence 51 successfully retrieved
+[Wed 6-Jun-2018, 02:03:42 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 02:03:42 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 02:04:57 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 02:04:57 pm] Database connection success for taara
+[Wed 6-Jun-2018, 02:04:57 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 02:05:00 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 02:05:00 pm] Database connection success for taara
+[Wed 6-Jun-2018, 02:05:00 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 02:05:00 pm] Product occurrence 41 successfully retrieved
+[Wed 6-Jun-2018, 02:05:00 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 02:05:00 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 02:05:00 pm] Product occurrence 42 successfully retrieved
+[Wed 6-Jun-2018, 02:05:00 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 02:05:00 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 02:05:00 pm] Product occurrence 43 successfully retrieved
+[Wed 6-Jun-2018, 02:05:00 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 02:05:00 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 02:05:00 pm] Product occurrence 44 successfully retrieved
+[Wed 6-Jun-2018, 02:05:00 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 02:05:00 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 02:05:00 pm] Product occurrence 51 successfully retrieved
+[Wed 6-Jun-2018, 02:05:00 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 02:05:00 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 02:05:27 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 02:05:27 pm] Database connection success for taara
+[Wed 6-Jun-2018, 02:05:27 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 02:05:27 pm] Product occurrence 41 successfully retrieved
+[Wed 6-Jun-2018, 02:05:27 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 02:05:27 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 02:05:27 pm] Product occurrence 42 successfully retrieved
+[Wed 6-Jun-2018, 02:05:27 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 02:05:27 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 02:05:27 pm] Product occurrence 43 successfully retrieved
+[Wed 6-Jun-2018, 02:05:27 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 02:05:27 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 02:05:27 pm] Product occurrence 44 successfully retrieved
+[Wed 6-Jun-2018, 02:05:27 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 02:05:27 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 02:05:27 pm] Product occurrence 51 successfully retrieved
+[Wed 6-Jun-2018, 02:05:27 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 02:05:27 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 02:05:38 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 02:05:38 pm] Database connection success for taara
+[Wed 6-Jun-2018, 02:05:38 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 02:05:38 pm] Product occurrence 45 successfully retrieved
+[Wed 6-Jun-2018, 02:05:38 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 02:05:38 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 02:05:38 pm] Product occurrence 46 successfully retrieved
+[Wed 6-Jun-2018, 02:05:38 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 02:05:38 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 02:05:38 pm] Product occurrence 47 successfully retrieved
+[Wed 6-Jun-2018, 02:05:38 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 02:05:38 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 02:05:38 pm] Product occurrence 48 successfully retrieved
+[Wed 6-Jun-2018, 02:05:38 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 02:05:38 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 02:05:38 pm] Product occurrence 49 successfully retrieved
+[Wed 6-Jun-2018, 02:05:38 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 02:05:38 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 02:08:22 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 02:08:22 pm] Database connection success for taara
+[Wed 6-Jun-2018, 02:08:22 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 02:08:25 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 02:08:25 pm] Database connection success for taara
+[Wed 6-Jun-2018, 02:08:25 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 02:08:25 pm] Product occurrence 41 successfully retrieved
+[Wed 6-Jun-2018, 02:08:25 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 02:08:25 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 02:08:25 pm] Product occurrence 42 successfully retrieved
+[Wed 6-Jun-2018, 02:08:25 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 02:08:25 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 02:08:25 pm] Product occurrence 43 successfully retrieved
+[Wed 6-Jun-2018, 02:08:25 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 02:08:25 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 02:08:25 pm] Product occurrence 44 successfully retrieved
+[Wed 6-Jun-2018, 02:08:25 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 02:08:25 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 02:08:25 pm] Product occurrence 51 successfully retrieved
+[Wed 6-Jun-2018, 02:08:25 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 02:08:25 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 02:08:28 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 02:08:28 pm] Database connection success for taara
+[Wed 6-Jun-2018, 02:08:28 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 02:10:48 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 02:10:48 pm] Database connection success for taara
+[Wed 6-Jun-2018, 02:10:48 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 02:10:51 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 02:10:51 pm] Database connection success for taara
+[Wed 6-Jun-2018, 02:10:51 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 02:10:51 pm] Product occurrence 45 successfully retrieved
+[Wed 6-Jun-2018, 02:10:51 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 02:10:51 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 02:10:51 pm] Product occurrence 46 successfully retrieved
+[Wed 6-Jun-2018, 02:10:51 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 02:10:51 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 02:10:51 pm] Product occurrence 47 successfully retrieved
+[Wed 6-Jun-2018, 02:10:51 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 02:10:51 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 02:10:51 pm] Product occurrence 48 successfully retrieved
+[Wed 6-Jun-2018, 02:10:51 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 02:10:51 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 02:10:51 pm] Product occurrence 49 successfully retrieved
+[Wed 6-Jun-2018, 02:10:51 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 02:10:51 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 02:10:54 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 02:10:54 pm] Database connection success for taara
+[Wed 6-Jun-2018, 02:10:54 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 02:13:08 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 02:13:08 pm] Database connection success for taara
+[Wed 6-Jun-2018, 02:13:08 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 02:13:11 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 02:13:11 pm] Database connection success for taara
+[Wed 6-Jun-2018, 02:13:11 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 02:13:11 pm] Product occurrence 45 successfully retrieved
+[Wed 6-Jun-2018, 02:13:11 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 02:13:11 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 02:13:11 pm] Product occurrence 46 successfully retrieved
+[Wed 6-Jun-2018, 02:13:11 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 02:13:11 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 02:13:11 pm] Product occurrence 47 successfully retrieved
+[Wed 6-Jun-2018, 02:13:11 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 02:13:11 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 02:13:11 pm] Product occurrence 48 successfully retrieved
+[Wed 6-Jun-2018, 02:13:11 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 02:13:11 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 02:13:11 pm] Product occurrence 49 successfully retrieved
+[Wed 6-Jun-2018, 02:13:11 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 02:13:11 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 02:13:15 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 02:13:15 pm] Database connection success for taara
+[Wed 6-Jun-2018, 02:13:15 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 02:14:51 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 02:14:51 pm] Database connection success for taara
+[Wed 6-Jun-2018, 02:14:51 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 02:15:14 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 02:15:14 pm] Database connection success for taara
+[Wed 6-Jun-2018, 02:15:14 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 02:15:16 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 02:15:16 pm] Database connection success for taara
+[Wed 6-Jun-2018, 02:15:16 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 02:15:16 pm] Product occurrence 41 successfully retrieved
+[Wed 6-Jun-2018, 02:15:16 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 02:15:16 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 02:15:16 pm] Product occurrence 42 successfully retrieved
+[Wed 6-Jun-2018, 02:15:16 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 02:15:16 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 02:15:16 pm] Product occurrence 43 successfully retrieved
+[Wed 6-Jun-2018, 02:15:16 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 02:15:16 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 02:15:16 pm] Product occurrence 44 successfully retrieved
+[Wed 6-Jun-2018, 02:15:16 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 02:15:16 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 02:15:16 pm] Product occurrence 51 successfully retrieved
+[Wed 6-Jun-2018, 02:15:16 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 02:15:16 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 02:15:19 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 02:15:19 pm] Database connection success for taara
+[Wed 6-Jun-2018, 02:15:19 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 02:15:25 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 02:15:25 pm] Database connection success for taara
+[Wed 6-Jun-2018, 02:15:25 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 02:15:25 pm] Product occurrence 41 successfully retrieved
+[Wed 6-Jun-2018, 02:15:25 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 02:15:25 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 02:15:25 pm] Product occurrence 42 successfully retrieved
+[Wed 6-Jun-2018, 02:15:25 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 02:15:25 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 02:15:25 pm] Product occurrence 43 successfully retrieved
+[Wed 6-Jun-2018, 02:15:25 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 02:15:25 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 02:15:25 pm] Product occurrence 44 successfully retrieved
+[Wed 6-Jun-2018, 02:15:25 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 02:15:25 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 02:15:25 pm] Product occurrence 51 successfully retrieved
+[Wed 6-Jun-2018, 02:15:25 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 02:15:25 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 02:15:28 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 02:15:28 pm] Database connection success for taara
+[Wed 6-Jun-2018, 02:15:28 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 02:16:19 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 02:16:19 pm] Database connection success for taara
+[Wed 6-Jun-2018, 02:16:19 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 02:16:24 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 02:16:24 pm] Database connection success for taara
+[Wed 6-Jun-2018, 02:16:24 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 02:16:24 pm] Product occurrence 41 successfully retrieved
+[Wed 6-Jun-2018, 02:16:24 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 02:16:24 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 02:16:24 pm] Product occurrence 42 successfully retrieved
+[Wed 6-Jun-2018, 02:16:24 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 02:16:24 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 02:16:24 pm] Product occurrence 43 successfully retrieved
+[Wed 6-Jun-2018, 02:16:24 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 02:16:24 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 02:16:24 pm] Product occurrence 44 successfully retrieved
+[Wed 6-Jun-2018, 02:16:24 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 02:16:24 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 02:16:24 pm] Product occurrence 51 successfully retrieved
+[Wed 6-Jun-2018, 02:16:24 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 02:16:24 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 02:16:28 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 02:16:28 pm] Database connection success for taara
+[Wed 6-Jun-2018, 02:16:28 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 02:17:18 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 02:17:18 pm] Database connection success for taara
+[Wed 6-Jun-2018, 02:17:18 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 02:17:22 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 02:17:22 pm] Database connection success for taara
+[Wed 6-Jun-2018, 02:17:22 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 02:17:22 pm] Product occurrence 41 successfully retrieved
+[Wed 6-Jun-2018, 02:17:22 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 02:17:22 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 02:17:22 pm] Product occurrence 42 successfully retrieved
+[Wed 6-Jun-2018, 02:17:22 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 02:17:22 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 02:17:22 pm] Product occurrence 43 successfully retrieved
+[Wed 6-Jun-2018, 02:17:22 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 02:17:22 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 02:17:22 pm] Product occurrence 44 successfully retrieved
+[Wed 6-Jun-2018, 02:17:22 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 02:17:22 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 02:17:22 pm] Product occurrence 51 successfully retrieved
+[Wed 6-Jun-2018, 02:17:22 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 02:17:22 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 02:18:27 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 02:18:27 pm] Database connection success for taara
+[Wed 6-Jun-2018, 02:18:27 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 02:18:30 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 02:18:30 pm] Database connection success for taara
+[Wed 6-Jun-2018, 02:18:30 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 02:18:30 pm] Product occurrence 41 successfully retrieved
+[Wed 6-Jun-2018, 02:18:30 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 02:18:30 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 02:18:30 pm] Product occurrence 42 successfully retrieved
+[Wed 6-Jun-2018, 02:18:30 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 02:18:30 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 02:18:30 pm] Product occurrence 43 successfully retrieved
+[Wed 6-Jun-2018, 02:18:30 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 02:18:30 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 02:18:30 pm] Product occurrence 44 successfully retrieved
+[Wed 6-Jun-2018, 02:18:30 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 02:18:30 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 02:18:30 pm] Product occurrence 51 successfully retrieved
+[Wed 6-Jun-2018, 02:18:30 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 02:18:30 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 02:18:34 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 02:18:34 pm] Database connection success for taara
+[Wed 6-Jun-2018, 02:18:34 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 02:20:09 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 02:20:09 pm] Database connection success for taara
+[Wed 6-Jun-2018, 02:20:09 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 02:20:12 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 02:20:12 pm] Database connection success for taara
+[Wed 6-Jun-2018, 02:20:12 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 02:20:12 pm] Product occurrence 45 successfully retrieved
+[Wed 6-Jun-2018, 02:20:12 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 02:20:12 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 02:20:12 pm] Product occurrence 46 successfully retrieved
+[Wed 6-Jun-2018, 02:20:12 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 02:20:12 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 02:20:12 pm] Product occurrence 47 successfully retrieved
+[Wed 6-Jun-2018, 02:20:12 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 02:20:12 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 02:20:12 pm] Product occurrence 48 successfully retrieved
+[Wed 6-Jun-2018, 02:20:12 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 02:20:12 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 02:20:12 pm] Product occurrence 49 successfully retrieved
+[Wed 6-Jun-2018, 02:20:12 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 02:20:12 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 02:20:15 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 02:20:15 pm] Database connection success for taara
+[Wed 6-Jun-2018, 02:20:15 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 02:20:57 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 02:20:57 pm] Database connection success for taara
+[Wed 6-Jun-2018, 02:20:57 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 02:21:01 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 02:21:01 pm] Database connection success for taara
+[Wed 6-Jun-2018, 02:21:01 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 02:21:01 pm] Product occurrence 41 successfully retrieved
+[Wed 6-Jun-2018, 02:21:01 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 02:21:01 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 02:21:01 pm] Product occurrence 42 successfully retrieved
+[Wed 6-Jun-2018, 02:21:01 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 02:21:01 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 02:21:01 pm] Product occurrence 43 successfully retrieved
+[Wed 6-Jun-2018, 02:21:01 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 02:21:01 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 02:21:01 pm] Product occurrence 44 successfully retrieved
+[Wed 6-Jun-2018, 02:21:01 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 02:21:01 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 02:21:01 pm] Product occurrence 51 successfully retrieved
+[Wed 6-Jun-2018, 02:21:01 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 02:21:01 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 02:24:52 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 02:24:52 pm] Database connection success for taara
+[Wed 6-Jun-2018, 02:24:52 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 02:24:55 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 02:24:55 pm] Database connection success for taara
+[Wed 6-Jun-2018, 02:24:55 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 02:24:55 pm] Product occurrence 41 successfully retrieved
+[Wed 6-Jun-2018, 02:24:55 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 02:24:55 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 02:24:55 pm] Product occurrence 42 successfully retrieved
+[Wed 6-Jun-2018, 02:24:55 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 02:24:55 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 02:24:55 pm] Product occurrence 43 successfully retrieved
+[Wed 6-Jun-2018, 02:24:55 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 02:24:55 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 02:24:55 pm] Product occurrence 44 successfully retrieved
+[Wed 6-Jun-2018, 02:24:55 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 02:24:55 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 02:24:55 pm] Product occurrence 51 successfully retrieved
+[Wed 6-Jun-2018, 02:24:55 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 02:24:55 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 02:24:58 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 02:24:58 pm] Database connection success for taara
+[Wed 6-Jun-2018, 02:24:58 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 02:26:14 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 02:26:14 pm] Database connection success for taara
+[Wed 6-Jun-2018, 02:26:14 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 02:26:16 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 02:26:16 pm] Database connection success for taara
+[Wed 6-Jun-2018, 02:26:16 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 02:26:16 pm] Product occurrence 41 successfully retrieved
+[Wed 6-Jun-2018, 02:26:16 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 02:26:16 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 02:26:16 pm] Product occurrence 42 successfully retrieved
+[Wed 6-Jun-2018, 02:26:16 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 02:26:16 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 02:26:16 pm] Product occurrence 43 successfully retrieved
+[Wed 6-Jun-2018, 02:26:16 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 02:26:16 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 02:26:16 pm] Product occurrence 44 successfully retrieved
+[Wed 6-Jun-2018, 02:26:16 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 02:26:16 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 02:26:16 pm] Product occurrence 51 successfully retrieved
+[Wed 6-Jun-2018, 02:26:16 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 02:26:16 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 02:55:53 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 02:55:53 pm] Database connection success for taara
+[Wed 6-Jun-2018, 02:55:53 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 02:55:57 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 02:55:57 pm] Database connection success for taara
+[Wed 6-Jun-2018, 02:55:57 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 02:55:57 pm] Product occurrence 41 successfully retrieved
+[Wed 6-Jun-2018, 02:55:57 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 02:55:57 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 02:55:57 pm] Product occurrence 42 successfully retrieved
+[Wed 6-Jun-2018, 02:55:57 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 02:55:57 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 02:55:57 pm] Product occurrence 43 successfully retrieved
+[Wed 6-Jun-2018, 02:55:57 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 02:55:57 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 02:55:57 pm] Product occurrence 44 successfully retrieved
+[Wed 6-Jun-2018, 02:55:57 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 02:55:57 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 02:55:57 pm] Product occurrence 51 successfully retrieved
+[Wed 6-Jun-2018, 02:55:57 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 02:55:57 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:01:49 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 03:01:49 pm] Database connection success for taara
+[Wed 6-Jun-2018, 03:01:49 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 03:01:53 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 03:01:53 pm] Database connection success for taara
+[Wed 6-Jun-2018, 03:01:53 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 03:01:53 pm] Product occurrence 45 successfully retrieved
+[Wed 6-Jun-2018, 03:01:53 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:01:53 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 03:01:53 pm] Product occurrence 46 successfully retrieved
+[Wed 6-Jun-2018, 03:01:53 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:01:53 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 03:01:53 pm] Product occurrence 47 successfully retrieved
+[Wed 6-Jun-2018, 03:01:53 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:01:53 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:01:53 pm] Product occurrence 48 successfully retrieved
+[Wed 6-Jun-2018, 03:01:53 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:01:53 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 03:01:53 pm] Product occurrence 49 successfully retrieved
+[Wed 6-Jun-2018, 03:01:53 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:01:53 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:01:57 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 03:01:57 pm] Database connection success for taara
+[Wed 6-Jun-2018, 03:01:57 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 03:01:57 pm] Product occurrence 45 successfully retrieved
+[Wed 6-Jun-2018, 03:01:57 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:01:57 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 03:01:57 pm] Product occurrence 46 successfully retrieved
+[Wed 6-Jun-2018, 03:01:57 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:01:57 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 03:01:57 pm] Product occurrence 47 successfully retrieved
+[Wed 6-Jun-2018, 03:01:57 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:01:57 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:01:57 pm] Product occurrence 48 successfully retrieved
+[Wed 6-Jun-2018, 03:01:57 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:01:57 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 03:01:57 pm] Product occurrence 49 successfully retrieved
+[Wed 6-Jun-2018, 03:01:57 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:01:57 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:02:02 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 03:02:02 pm] Database connection success for taara
+[Wed 6-Jun-2018, 03:02:02 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 03:02:02 pm] Product occurrence 45 successfully retrieved
+[Wed 6-Jun-2018, 03:02:02 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:02:02 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 03:02:02 pm] Product occurrence 46 successfully retrieved
+[Wed 6-Jun-2018, 03:02:02 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:02:02 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 03:02:02 pm] Product occurrence 47 successfully retrieved
+[Wed 6-Jun-2018, 03:02:02 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:02:02 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:02:02 pm] Product occurrence 48 successfully retrieved
+[Wed 6-Jun-2018, 03:02:02 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:02:02 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 03:02:02 pm] Product occurrence 49 successfully retrieved
+[Wed 6-Jun-2018, 03:02:02 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:02:02 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:02:54 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 03:02:54 pm] Database connection success for taara
+[Wed 6-Jun-2018, 03:02:54 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 03:02:54 pm] Product occurrence 45 successfully retrieved
+[Wed 6-Jun-2018, 03:02:54 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:02:54 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 03:02:54 pm] Product occurrence 46 successfully retrieved
+[Wed 6-Jun-2018, 03:02:54 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:02:54 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 03:02:54 pm] Product occurrence 47 successfully retrieved
+[Wed 6-Jun-2018, 03:02:54 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:02:54 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:02:54 pm] Product occurrence 48 successfully retrieved
+[Wed 6-Jun-2018, 03:02:54 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:02:54 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 03:02:54 pm] Product occurrence 49 successfully retrieved
+[Wed 6-Jun-2018, 03:02:54 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:02:54 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:03:28 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 03:03:28 pm] Database connection success for taara
+[Wed 6-Jun-2018, 03:03:28 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 03:03:28 pm] Product occurrence 45 successfully retrieved
+[Wed 6-Jun-2018, 03:03:28 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:03:28 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 03:03:28 pm] Product occurrence 46 successfully retrieved
+[Wed 6-Jun-2018, 03:03:28 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:03:28 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 03:03:28 pm] Product occurrence 47 successfully retrieved
+[Wed 6-Jun-2018, 03:03:28 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:03:28 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:03:28 pm] Product occurrence 48 successfully retrieved
+[Wed 6-Jun-2018, 03:03:28 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:03:28 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 03:03:28 pm] Product occurrence 49 successfully retrieved
+[Wed 6-Jun-2018, 03:03:28 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:03:28 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:05:38 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 03:05:38 pm] Database connection success for taara
+[Wed 6-Jun-2018, 03:05:38 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 03:05:38 pm] Product occurrence 45 successfully retrieved
+[Wed 6-Jun-2018, 03:05:38 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:05:38 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 03:05:38 pm] Product occurrence 46 successfully retrieved
+[Wed 6-Jun-2018, 03:05:38 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:05:38 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 03:05:38 pm] Product occurrence 47 successfully retrieved
+[Wed 6-Jun-2018, 03:05:38 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:05:38 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:05:38 pm] Product occurrence 48 successfully retrieved
+[Wed 6-Jun-2018, 03:05:38 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:05:38 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 03:05:38 pm] Product occurrence 49 successfully retrieved
+[Wed 6-Jun-2018, 03:05:38 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:05:38 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:05:54 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 03:05:54 pm] Database connection success for taara
+[Wed 6-Jun-2018, 03:05:54 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 03:05:57 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 03:05:57 pm] Database connection success for taara
+[Wed 6-Jun-2018, 03:05:57 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 03:05:57 pm] Product occurrence 45 successfully retrieved
+[Wed 6-Jun-2018, 03:05:57 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:05:57 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 03:05:57 pm] Product occurrence 46 successfully retrieved
+[Wed 6-Jun-2018, 03:05:57 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:05:57 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 03:05:57 pm] Product occurrence 47 successfully retrieved
+[Wed 6-Jun-2018, 03:05:57 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:05:57 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:05:57 pm] Product occurrence 48 successfully retrieved
+[Wed 6-Jun-2018, 03:05:57 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:05:57 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 03:05:57 pm] Product occurrence 49 successfully retrieved
+[Wed 6-Jun-2018, 03:05:57 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:05:57 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:06:01 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 03:06:01 pm] Database connection success for taara
+[Wed 6-Jun-2018, 03:06:01 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 03:06:01 pm] Product occurrence 41 successfully retrieved
+[Wed 6-Jun-2018, 03:06:01 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:06:01 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 03:06:01 pm] Product occurrence 42 successfully retrieved
+[Wed 6-Jun-2018, 03:06:01 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:06:01 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 03:06:01 pm] Product occurrence 43 successfully retrieved
+[Wed 6-Jun-2018, 03:06:01 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:06:01 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:06:01 pm] Product occurrence 44 successfully retrieved
+[Wed 6-Jun-2018, 03:06:01 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:06:01 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 03:06:01 pm] Product occurrence 51 successfully retrieved
+[Wed 6-Jun-2018, 03:06:01 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:06:01 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:06:09 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 03:06:09 pm] Database connection success for taara
+[Wed 6-Jun-2018, 03:06:09 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 03:06:09 pm] Product occurrence 41 successfully retrieved
+[Wed 6-Jun-2018, 03:06:09 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:06:09 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 03:06:09 pm] Product occurrence 42 successfully retrieved
+[Wed 6-Jun-2018, 03:06:09 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:06:09 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 03:06:09 pm] Product occurrence 43 successfully retrieved
+[Wed 6-Jun-2018, 03:06:09 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:06:09 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:06:09 pm] Product occurrence 44 successfully retrieved
+[Wed 6-Jun-2018, 03:06:09 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:06:09 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 03:06:09 pm] Product occurrence 51 successfully retrieved
+[Wed 6-Jun-2018, 03:06:09 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:06:09 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:06:31 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 03:06:31 pm] Database connection success for taara
+[Wed 6-Jun-2018, 03:06:31 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 03:06:31 pm] Product occurrence 41 successfully retrieved
+[Wed 6-Jun-2018, 03:06:31 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:06:31 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 03:06:31 pm] Product occurrence 42 successfully retrieved
+[Wed 6-Jun-2018, 03:06:31 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:06:31 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 03:06:31 pm] Product occurrence 43 successfully retrieved
+[Wed 6-Jun-2018, 03:06:31 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:06:31 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:06:31 pm] Product occurrence 44 successfully retrieved
+[Wed 6-Jun-2018, 03:06:31 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:06:31 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 03:06:31 pm] Product occurrence 51 successfully retrieved
+[Wed 6-Jun-2018, 03:06:31 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:06:31 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:07:22 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 03:07:22 pm] Database connection success for taara
+[Wed 6-Jun-2018, 03:07:22 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 03:07:30 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 03:07:30 pm] Database connection success for taara
+[Wed 6-Jun-2018, 03:07:30 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 03:07:30 pm] Product occurrence 45 successfully retrieved
+[Wed 6-Jun-2018, 03:07:30 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:07:30 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 03:07:30 pm] Product occurrence 46 successfully retrieved
+[Wed 6-Jun-2018, 03:07:30 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:07:30 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 03:07:30 pm] Product occurrence 47 successfully retrieved
+[Wed 6-Jun-2018, 03:07:30 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:07:30 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:07:30 pm] Product occurrence 48 successfully retrieved
+[Wed 6-Jun-2018, 03:07:30 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:07:30 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 03:07:30 pm] Product occurrence 49 successfully retrieved
+[Wed 6-Jun-2018, 03:07:30 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:07:30 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:07:39 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 03:07:39 pm] Database connection success for taara
+[Wed 6-Jun-2018, 03:07:39 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 03:07:39 pm] Product occurrence 41 successfully retrieved
+[Wed 6-Jun-2018, 03:07:39 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:07:39 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 03:07:39 pm] Product occurrence 42 successfully retrieved
+[Wed 6-Jun-2018, 03:07:39 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:07:39 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 03:07:39 pm] Product occurrence 43 successfully retrieved
+[Wed 6-Jun-2018, 03:07:39 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:07:39 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:07:39 pm] Product occurrence 44 successfully retrieved
+[Wed 6-Jun-2018, 03:07:39 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:07:39 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 03:07:39 pm] Product occurrence 51 successfully retrieved
+[Wed 6-Jun-2018, 03:07:39 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:07:39 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:08:53 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 03:08:53 pm] Database connection success for taara
+[Wed 6-Jun-2018, 03:08:53 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 03:08:57 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 03:08:57 pm] Database connection success for taara
+[Wed 6-Jun-2018, 03:08:57 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 03:08:57 pm] Product occurrence 45 successfully retrieved
+[Wed 6-Jun-2018, 03:08:57 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:08:57 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 03:08:57 pm] Product occurrence 46 successfully retrieved
+[Wed 6-Jun-2018, 03:08:57 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:08:57 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 03:08:57 pm] Product occurrence 47 successfully retrieved
+[Wed 6-Jun-2018, 03:08:57 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:08:57 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:08:57 pm] Product occurrence 48 successfully retrieved
+[Wed 6-Jun-2018, 03:08:57 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:08:57 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 03:08:57 pm] Product occurrence 49 successfully retrieved
+[Wed 6-Jun-2018, 03:08:57 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:08:57 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:09:27 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 03:09:27 pm] Database connection success for taara
+[Wed 6-Jun-2018, 03:09:27 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 03:09:27 pm] Product occurrence 45 successfully retrieved
+[Wed 6-Jun-2018, 03:09:27 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:09:27 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 03:09:27 pm] Product occurrence 46 successfully retrieved
+[Wed 6-Jun-2018, 03:09:27 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:09:27 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 03:09:27 pm] Product occurrence 47 successfully retrieved
+[Wed 6-Jun-2018, 03:09:27 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:09:27 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:09:27 pm] Product occurrence 48 successfully retrieved
+[Wed 6-Jun-2018, 03:09:27 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:09:27 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 03:09:27 pm] Product occurrence 49 successfully retrieved
+[Wed 6-Jun-2018, 03:09:27 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:09:27 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:10:59 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 03:10:59 pm] Database connection success for taara
+[Wed 6-Jun-2018, 03:10:59 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 03:11:00 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 03:11:00 pm] Database connection success for taara
+[Wed 6-Jun-2018, 03:11:00 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 03:11:00 pm] Product occurrence 45 successfully retrieved
+[Wed 6-Jun-2018, 03:11:00 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:11:00 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 03:11:00 pm] Product occurrence 46 successfully retrieved
+[Wed 6-Jun-2018, 03:11:00 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:11:00 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 03:11:00 pm] Product occurrence 47 successfully retrieved
+[Wed 6-Jun-2018, 03:11:00 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:11:00 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:11:00 pm] Product occurrence 48 successfully retrieved
+[Wed 6-Jun-2018, 03:11:00 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:11:00 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 03:11:00 pm] Product occurrence 49 successfully retrieved
+[Wed 6-Jun-2018, 03:11:00 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:11:00 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:12:22 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 03:12:22 pm] Database connection success for taara
+[Wed 6-Jun-2018, 03:12:22 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 03:12:25 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 03:12:25 pm] Database connection success for taara
+[Wed 6-Jun-2018, 03:12:25 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 03:12:25 pm] Product occurrence 45 successfully retrieved
+[Wed 6-Jun-2018, 03:12:25 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:12:25 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 03:12:25 pm] Product occurrence 46 successfully retrieved
+[Wed 6-Jun-2018, 03:12:25 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:12:25 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 03:12:25 pm] Product occurrence 47 successfully retrieved
+[Wed 6-Jun-2018, 03:12:25 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:12:25 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:12:25 pm] Product occurrence 48 successfully retrieved
+[Wed 6-Jun-2018, 03:12:25 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:12:25 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 03:12:25 pm] Product occurrence 49 successfully retrieved
+[Wed 6-Jun-2018, 03:12:25 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:12:25 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:13:44 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 03:13:44 pm] Database connection success for taara
+[Wed 6-Jun-2018, 03:13:44 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 03:13:47 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 03:13:47 pm] Database connection success for taara
+[Wed 6-Jun-2018, 03:13:47 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 03:13:47 pm] Product occurrence 45 successfully retrieved
+[Wed 6-Jun-2018, 03:13:47 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:13:47 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 03:13:47 pm] Product occurrence 46 successfully retrieved
+[Wed 6-Jun-2018, 03:13:47 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:13:47 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 03:13:47 pm] Product occurrence 47 successfully retrieved
+[Wed 6-Jun-2018, 03:13:47 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:13:47 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:13:47 pm] Product occurrence 48 successfully retrieved
+[Wed 6-Jun-2018, 03:13:47 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:13:47 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 03:13:47 pm] Product occurrence 49 successfully retrieved
+[Wed 6-Jun-2018, 03:13:47 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:13:47 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:14:29 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 03:14:29 pm] Database connection success for taara
+[Wed 6-Jun-2018, 03:14:29 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 03:14:29 pm] Product occurrence 45 successfully retrieved
+[Wed 6-Jun-2018, 03:14:29 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:14:29 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 03:14:29 pm] Product occurrence 46 successfully retrieved
+[Wed 6-Jun-2018, 03:14:29 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:14:29 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 03:14:29 pm] Product occurrence 47 successfully retrieved
+[Wed 6-Jun-2018, 03:14:29 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:14:29 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:14:29 pm] Product occurrence 48 successfully retrieved
+[Wed 6-Jun-2018, 03:14:29 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:14:29 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 03:14:29 pm] Product occurrence 49 successfully retrieved
+[Wed 6-Jun-2018, 03:14:29 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:14:29 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:15:32 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 03:15:32 pm] Database connection success for taara
+[Wed 6-Jun-2018, 03:15:32 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 03:15:35 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 03:15:35 pm] Database connection success for taara
+[Wed 6-Jun-2018, 03:15:35 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 03:15:35 pm] Product occurrence 45 successfully retrieved
+[Wed 6-Jun-2018, 03:15:35 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:15:35 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 03:15:35 pm] Product occurrence 46 successfully retrieved
+[Wed 6-Jun-2018, 03:15:35 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:15:35 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 03:15:35 pm] Product occurrence 47 successfully retrieved
+[Wed 6-Jun-2018, 03:15:35 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:15:35 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:15:35 pm] Product occurrence 48 successfully retrieved
+[Wed 6-Jun-2018, 03:15:35 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:15:35 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 03:15:35 pm] Product occurrence 49 successfully retrieved
+[Wed 6-Jun-2018, 03:15:35 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:15:35 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:16:31 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 03:16:31 pm] Database connection success for taara
+[Wed 6-Jun-2018, 03:16:31 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 03:16:31 pm] Product occurrence 41 successfully retrieved
+[Wed 6-Jun-2018, 03:16:31 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:16:31 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 03:16:31 pm] Product occurrence 42 successfully retrieved
+[Wed 6-Jun-2018, 03:16:31 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:16:31 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 03:16:31 pm] Product occurrence 43 successfully retrieved
+[Wed 6-Jun-2018, 03:16:31 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:16:31 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:16:31 pm] Product occurrence 44 successfully retrieved
+[Wed 6-Jun-2018, 03:16:31 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:16:31 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 03:16:31 pm] Product occurrence 51 successfully retrieved
+[Wed 6-Jun-2018, 03:16:31 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:16:31 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:16:33 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 03:16:33 pm] Database connection success for taara
+[Wed 6-Jun-2018, 03:16:33 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 03:16:33 pm] Product occurrence 41 successfully retrieved
+[Wed 6-Jun-2018, 03:16:33 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:16:33 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 03:16:33 pm] Product occurrence 42 successfully retrieved
+[Wed 6-Jun-2018, 03:16:33 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:16:33 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 03:16:33 pm] Product occurrence 43 successfully retrieved
+[Wed 6-Jun-2018, 03:16:33 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:16:33 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:16:33 pm] Product occurrence 44 successfully retrieved
+[Wed 6-Jun-2018, 03:16:33 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:16:33 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 03:16:33 pm] Product occurrence 51 successfully retrieved
+[Wed 6-Jun-2018, 03:16:33 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:16:33 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:17:32 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 03:17:32 pm] Database connection success for taara
+[Wed 6-Jun-2018, 03:17:32 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 03:17:35 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 03:17:35 pm] Database connection success for taara
+[Wed 6-Jun-2018, 03:17:35 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 03:17:35 pm] Product occurrence 45 successfully retrieved
+[Wed 6-Jun-2018, 03:17:35 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:17:35 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 03:17:35 pm] Product occurrence 46 successfully retrieved
+[Wed 6-Jun-2018, 03:17:35 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:17:35 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 03:17:35 pm] Product occurrence 47 successfully retrieved
+[Wed 6-Jun-2018, 03:17:35 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:17:35 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:17:35 pm] Product occurrence 48 successfully retrieved
+[Wed 6-Jun-2018, 03:17:35 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:17:35 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 03:17:35 pm] Product occurrence 49 successfully retrieved
+[Wed 6-Jun-2018, 03:17:35 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:17:35 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:19:02 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 03:19:02 pm] Database connection success for taara
+[Wed 6-Jun-2018, 03:19:02 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 03:19:05 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 03:19:05 pm] Database connection success for taara
+[Wed 6-Jun-2018, 03:19:05 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 03:19:05 pm] Product occurrence 45 successfully retrieved
+[Wed 6-Jun-2018, 03:19:05 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:19:05 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 03:19:05 pm] Product occurrence 46 successfully retrieved
+[Wed 6-Jun-2018, 03:19:05 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:19:05 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 03:19:05 pm] Product occurrence 47 successfully retrieved
+[Wed 6-Jun-2018, 03:19:05 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:19:05 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:19:05 pm] Product occurrence 48 successfully retrieved
+[Wed 6-Jun-2018, 03:19:05 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:19:05 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 03:19:05 pm] Product occurrence 49 successfully retrieved
+[Wed 6-Jun-2018, 03:19:05 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:19:05 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:23:21 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 03:23:21 pm] Database connection success for taara
+[Wed 6-Jun-2018, 03:23:21 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 03:23:25 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 03:23:25 pm] Database connection success for taara
+[Wed 6-Jun-2018, 03:23:25 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 03:23:25 pm] Product occurrence 45 successfully retrieved
+[Wed 6-Jun-2018, 03:23:25 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:23:25 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 03:23:25 pm] Product occurrence 46 successfully retrieved
+[Wed 6-Jun-2018, 03:23:25 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:23:25 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 03:23:25 pm] Product occurrence 47 successfully retrieved
+[Wed 6-Jun-2018, 03:23:25 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:23:25 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:23:25 pm] Product occurrence 48 successfully retrieved
+[Wed 6-Jun-2018, 03:23:25 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:23:25 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 03:23:25 pm] Product occurrence 49 successfully retrieved
+[Wed 6-Jun-2018, 03:23:25 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:23:25 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:24:04 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 03:24:04 pm] Database connection success for taara
+[Wed 6-Jun-2018, 03:24:04 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 03:24:04 pm] Product occurrence 41 successfully retrieved
+[Wed 6-Jun-2018, 03:24:04 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:24:04 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 03:24:04 pm] Product occurrence 42 successfully retrieved
+[Wed 6-Jun-2018, 03:24:04 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:24:04 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 03:24:04 pm] Product occurrence 43 successfully retrieved
+[Wed 6-Jun-2018, 03:24:04 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:24:04 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:24:04 pm] Product occurrence 44 successfully retrieved
+[Wed 6-Jun-2018, 03:24:04 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:24:04 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 03:24:04 pm] Product occurrence 51 successfully retrieved
+[Wed 6-Jun-2018, 03:24:04 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:24:04 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:25:51 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 03:25:51 pm] Database connection success for taara
+[Wed 6-Jun-2018, 03:25:51 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 03:25:54 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 03:25:54 pm] Database connection success for taara
+[Wed 6-Jun-2018, 03:25:54 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 03:25:54 pm] Product occurrence 41 successfully retrieved
+[Wed 6-Jun-2018, 03:25:54 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:25:54 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 03:25:54 pm] Product occurrence 42 successfully retrieved
+[Wed 6-Jun-2018, 03:25:54 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:25:54 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 03:25:54 pm] Product occurrence 43 successfully retrieved
+[Wed 6-Jun-2018, 03:25:54 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:25:54 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:25:54 pm] Product occurrence 44 successfully retrieved
+[Wed 6-Jun-2018, 03:25:54 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:25:54 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 03:25:54 pm] Product occurrence 51 successfully retrieved
+[Wed 6-Jun-2018, 03:25:54 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:25:54 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:26:13 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 03:26:13 pm] Database connection success for taara
+[Wed 6-Jun-2018, 03:26:13 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 03:26:13 pm] Product occurrence 41 successfully retrieved
+[Wed 6-Jun-2018, 03:26:13 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:26:13 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 03:26:13 pm] Product occurrence 42 successfully retrieved
+[Wed 6-Jun-2018, 03:26:13 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:26:13 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 03:26:13 pm] Product occurrence 43 successfully retrieved
+[Wed 6-Jun-2018, 03:26:13 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:26:13 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:26:13 pm] Product occurrence 44 successfully retrieved
+[Wed 6-Jun-2018, 03:26:13 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:26:13 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 03:26:13 pm] Product occurrence 51 successfully retrieved
+[Wed 6-Jun-2018, 03:26:13 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:26:13 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:28:12 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 03:28:12 pm] Database connection success for taara
+[Wed 6-Jun-2018, 03:28:12 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 03:28:15 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 03:28:15 pm] Database connection success for taara
+[Wed 6-Jun-2018, 03:28:15 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 03:28:17 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 03:28:17 pm] Database connection success for taara
+[Wed 6-Jun-2018, 03:28:17 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 03:28:17 pm] Product occurrence 41 successfully retrieved
+[Wed 6-Jun-2018, 03:28:17 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:28:17 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 03:28:17 pm] Product occurrence 42 successfully retrieved
+[Wed 6-Jun-2018, 03:28:17 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:28:17 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 03:28:17 pm] Product occurrence 43 successfully retrieved
+[Wed 6-Jun-2018, 03:28:17 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:28:17 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:28:17 pm] Product occurrence 44 successfully retrieved
+[Wed 6-Jun-2018, 03:28:17 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:28:17 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 03:28:17 pm] Product occurrence 51 successfully retrieved
+[Wed 6-Jun-2018, 03:28:17 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:28:17 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:29:50 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 03:29:50 pm] Database connection success for taara
+[Wed 6-Jun-2018, 03:29:50 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 03:29:50 pm] Product occurrence 41 successfully retrieved
+[Wed 6-Jun-2018, 03:29:50 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:29:50 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 03:29:50 pm] Product occurrence 42 successfully retrieved
+[Wed 6-Jun-2018, 03:29:50 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:29:50 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 03:29:50 pm] Product occurrence 43 successfully retrieved
+[Wed 6-Jun-2018, 03:29:50 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:29:50 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:29:50 pm] Product occurrence 44 successfully retrieved
+[Wed 6-Jun-2018, 03:29:50 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:29:50 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 03:29:50 pm] Product occurrence 51 successfully retrieved
+[Wed 6-Jun-2018, 03:29:50 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:29:50 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:31:34 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 03:31:34 pm] Database connection success for taara
+[Wed 6-Jun-2018, 03:31:34 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 03:31:37 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 03:31:37 pm] Database connection success for taara
+[Wed 6-Jun-2018, 03:31:37 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 03:31:37 pm] Product occurrence 45 successfully retrieved
+[Wed 6-Jun-2018, 03:31:37 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:31:37 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 03:31:37 pm] Product occurrence 46 successfully retrieved
+[Wed 6-Jun-2018, 03:31:37 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:31:37 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 03:31:37 pm] Product occurrence 47 successfully retrieved
+[Wed 6-Jun-2018, 03:31:37 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:31:37 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:31:37 pm] Product occurrence 48 successfully retrieved
+[Wed 6-Jun-2018, 03:31:37 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:31:37 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 03:31:37 pm] Product occurrence 49 successfully retrieved
+[Wed 6-Jun-2018, 03:31:37 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:31:37 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:41:36 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 03:41:36 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 03:41:37 pm] Database connection success for taara
+[Wed 6-Jun-2018, 03:41:37 pm] Database connection success for taara
+[Wed 6-Jun-2018, 03:41:37 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 03:41:37 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 03:41:58 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 03:41:58 pm] Database connection success for taara
+[Wed 6-Jun-2018, 03:41:58 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 03:42:09 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 03:42:09 pm] Database connection success for taara
+[Wed 6-Jun-2018, 03:42:09 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 03:42:09 pm] Product occurrence 45 successfully retrieved
+[Wed 6-Jun-2018, 03:42:09 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:42:09 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 03:42:09 pm] Product occurrence 46 successfully retrieved
+[Wed 6-Jun-2018, 03:42:09 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:42:09 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 03:42:09 pm] Product occurrence 47 successfully retrieved
+[Wed 6-Jun-2018, 03:42:09 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:42:09 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:42:09 pm] Product occurrence 48 successfully retrieved
+[Wed 6-Jun-2018, 03:42:09 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:42:09 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 03:42:09 pm] Product occurrence 49 successfully retrieved
+[Wed 6-Jun-2018, 03:42:09 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:42:09 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:43:59 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 03:43:59 pm] Database connection success for taara
+[Wed 6-Jun-2018, 03:43:59 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 03:44:04 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 03:44:04 pm] Database connection success for taara
+[Wed 6-Jun-2018, 03:44:04 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 03:44:04 pm] Product occurrence 45 successfully retrieved
+[Wed 6-Jun-2018, 03:44:04 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:44:04 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 03:44:04 pm] Product occurrence 46 successfully retrieved
+[Wed 6-Jun-2018, 03:44:04 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:44:04 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 03:44:04 pm] Product occurrence 47 successfully retrieved
+[Wed 6-Jun-2018, 03:44:04 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:44:04 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:44:04 pm] Product occurrence 48 successfully retrieved
+[Wed 6-Jun-2018, 03:44:04 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:44:04 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 03:44:04 pm] Product occurrence 49 successfully retrieved
+[Wed 6-Jun-2018, 03:44:04 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:44:04 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:48:03 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 03:48:03 pm] Database connection success for taara
+[Wed 6-Jun-2018, 03:48:03 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 03:48:08 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 03:48:08 pm] Database connection success for taara
+[Wed 6-Jun-2018, 03:48:08 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 03:48:17 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 03:48:17 pm] Database connection success for taara
+[Wed 6-Jun-2018, 03:48:17 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 03:49:21 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 03:49:21 pm] Database connection success for taara
+[Wed 6-Jun-2018, 03:49:21 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 03:49:25 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 03:49:25 pm] Database connection success for taara
+[Wed 6-Jun-2018, 03:49:25 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 03:49:25 pm] Product occurrence 41 successfully retrieved
+[Wed 6-Jun-2018, 03:49:25 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:49:25 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 03:49:25 pm] Product occurrence 42 successfully retrieved
+[Wed 6-Jun-2018, 03:49:25 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:49:25 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 03:49:25 pm] Product occurrence 43 successfully retrieved
+[Wed 6-Jun-2018, 03:49:25 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:49:25 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:49:25 pm] Product occurrence 44 successfully retrieved
+[Wed 6-Jun-2018, 03:49:25 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:49:25 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 03:49:25 pm] Product occurrence 51 successfully retrieved
+[Wed 6-Jun-2018, 03:49:25 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:49:25 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:49:39 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 03:49:39 pm] Database connection success for taara
+[Wed 6-Jun-2018, 03:49:39 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 03:49:41 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 03:49:41 pm] Database connection success for taara
+[Wed 6-Jun-2018, 03:49:41 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 03:49:41 pm] Product occurrence 45 successfully retrieved
+[Wed 6-Jun-2018, 03:49:41 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:49:41 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 03:49:41 pm] Product occurrence 46 successfully retrieved
+[Wed 6-Jun-2018, 03:49:41 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:49:41 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 03:49:41 pm] Product occurrence 47 successfully retrieved
+[Wed 6-Jun-2018, 03:49:41 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:49:41 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:49:41 pm] Product occurrence 48 successfully retrieved
+[Wed 6-Jun-2018, 03:49:41 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:49:41 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 03:49:41 pm] Product occurrence 49 successfully retrieved
+[Wed 6-Jun-2018, 03:49:41 pm] Kartasi Exercise Book successfully retrieved
+[Wed 6-Jun-2018, 03:49:41 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:49:55 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 03:49:55 pm] Database connection success for taara
+[Wed 6-Jun-2018, 03:49:55 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 03:49:58 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 03:49:58 pm] Database connection success for taara
+[Wed 6-Jun-2018, 03:49:58 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 03:49:58 pm] Product occurrence 41 successfully retrieved
+[Wed 6-Jun-2018, 03:49:58 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:49:58 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 03:49:58 pm] Product occurrence 42 successfully retrieved
+[Wed 6-Jun-2018, 03:49:58 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:49:58 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 03:49:58 pm] Product occurrence 43 successfully retrieved
+[Wed 6-Jun-2018, 03:49:58 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:49:58 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:49:58 pm] Product occurrence 44 successfully retrieved
+[Wed 6-Jun-2018, 03:49:58 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:49:58 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 03:49:58 pm] Product occurrence 51 successfully retrieved
+[Wed 6-Jun-2018, 03:49:58 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:49:58 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:50:15 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 03:50:15 pm] Database connection success for taara
+[Wed 6-Jun-2018, 03:50:15 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 03:50:15 pm] Product occurrence 41 successfully retrieved
+[Wed 6-Jun-2018, 03:50:15 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:50:15 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 03:50:15 pm] Product occurrence 42 successfully retrieved
+[Wed 6-Jun-2018, 03:50:15 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:50:15 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 03:50:15 pm] Product occurrence 43 successfully retrieved
+[Wed 6-Jun-2018, 03:50:15 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:50:15 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:50:15 pm] Product occurrence 44 successfully retrieved
+[Wed 6-Jun-2018, 03:50:15 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:50:15 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 03:50:15 pm] Product occurrence 51 successfully retrieved
+[Wed 6-Jun-2018, 03:50:15 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:50:15 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:50:20 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 03:50:20 pm] Database connection success for taara
+[Wed 6-Jun-2018, 03:50:20 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 03:50:20 pm] Product occurrence 41 successfully retrieved
+[Wed 6-Jun-2018, 03:50:20 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:50:20 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 03:50:20 pm] Product occurrence 42 successfully retrieved
+[Wed 6-Jun-2018, 03:50:20 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:50:20 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 03:50:20 pm] Product occurrence 43 successfully retrieved
+[Wed 6-Jun-2018, 03:50:20 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:50:20 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:50:20 pm] Product occurrence 44 successfully retrieved
+[Wed 6-Jun-2018, 03:50:20 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:50:20 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 03:50:20 pm] Product occurrence 51 successfully retrieved
+[Wed 6-Jun-2018, 03:50:20 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:50:20 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:53:25 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 03:53:25 pm] Database connection success for taara
+[Wed 6-Jun-2018, 03:53:25 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 03:53:27 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 03:53:27 pm] Database connection success for taara
+[Wed 6-Jun-2018, 03:53:27 pm] attempt to get all history for userID: 9
+[Wed 6-Jun-2018, 03:53:32 pm] File 'log.txt' opened successfully
+[Wed 6-Jun-2018, 03:53:32 pm] Database connection success for taara
+[Wed 6-Jun-2018, 03:53:32 pm] Attempt to get product comparisons
+[Wed 6-Jun-2018, 03:53:32 pm] Product occurrence 41 successfully retrieved
+[Wed 6-Jun-2018, 03:53:32 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:53:32 pm] tuskys tom mboya successfully retrieved
+[Wed 6-Jun-2018, 03:53:32 pm] Product occurrence 42 successfully retrieved
+[Wed 6-Jun-2018, 03:53:32 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:53:32 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Wed 6-Jun-2018, 03:53:32 pm] Product occurrence 43 successfully retrieved
+[Wed 6-Jun-2018, 03:53:32 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:53:32 pm] the mall(westlands) successfully retrieved
+[Wed 6-Jun-2018, 03:53:32 pm] Product occurrence 44 successfully retrieved
+[Wed 6-Jun-2018, 03:53:32 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:53:32 pm] buffalo mall(naivasha) successfully retrieved
+[Wed 6-Jun-2018, 03:53:32 pm] Product occurrence 51 successfully retrieved
+[Wed 6-Jun-2018, 03:53:32 pm] Daily Nation successfully retrieved
+[Wed 6-Jun-2018, 03:53:32 pm] the mall(westlands) successfully retrieved
