@@ -4808,3 +4808,13 @@
 [Thu 7-Jun-2018, 05:52:29 pm] File 'log.txt' opened successfully
 [Thu 7-Jun-2018, 05:52:29 pm] Database connection success for taara
 [Thu 7-Jun-2018, 05:52:29 pm] attempt to send invoice to phone number 254746649576 and invoice number  cdsvvsd
+[Thu 7-Jun-2018, 06:32:09 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 06:32:09 pm] Database connection success for taara
+[Thu 7-Jun-2018, 06:32:09 pm] attempt to get all history for userID: 9
+[Thu 7-Jun-2018, 06:34:56 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 06:34:56 pm] Database connection success for taara
+[Thu 7-Jun-2018, 06:34:56 pm] attempt to get all history for userID: 9
+[Thu 7-Jun-2018, 06:35:08 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 06:35:08 pm] Database connection success for taara
+[Thu 7-Jun-2018, 06:35:08 pm] Store 'tuskys tom mboya' successfully retrieved
+[Thu 7-Jun-2018, 06:35:08 pm] Store retrieval...:2 storeId2 

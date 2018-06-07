@@ -16,9 +16,9 @@ include("conn.php");
 include("userInformation.php");
   date_default_timezone_set("Africa/Nairobi");
 function output($data){
-    echo "<pre>";
+    //echo "<pre>";
     print_r($data);
-    echo "</pre>";
+    //echo "</pre>";
   
 }
 
@@ -192,7 +192,7 @@ function output($data){
                 $p1 = $_GET['itemIds'];
                 $p2 = $_GET['userId'];
                 $p3 = $orderId;
-                $p4 = $_GET['storeID'];
+                $p4 = $sendInvoiceToPhone;
                 $callbackUrl = "https://artscircle.co.ke/taaraBackend/confirm.php";
                 $emailNotification = 1;
                 $responseFormat = 0;

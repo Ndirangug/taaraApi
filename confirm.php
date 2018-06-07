@@ -20,6 +20,7 @@ $itemIds = explode(",",  $_GET['p1']);
 $userid= $_GET['p2'];
 $invoice_number = $_GET['p3'];
 $amount = $_GET['mc'];
+$sendInvoiceToPhone = $_GET['p4'];
 $transactionCode = $_GET['txncd'];
 $registeredNumber = $_GET['msisdn_idnum'];
 $postedNumber = $_GET['msisdn_custnum'];
@@ -48,7 +49,10 @@ switch ($status) {
                 markPaid($value, $invoice_number, $conn, $openLogFile); 
              }
 
-             header("location:index.php?android_api_call=invoiceToPhone&phone=$postedNumber&invoice_number=$invoice_number");
+             if ($sendInvoiceToPhone) {
+                 header("location:index.php?android_api_call=invoiceToPhone&phone=$postedNumber&invoice_number=$invoice_number");
+             }
+             
         } else {
             writeLog("query failed checkoutId: $invoice_number amount: $amount userId: $userid ".mysqli_error($conn), $openLogFile);
         }
