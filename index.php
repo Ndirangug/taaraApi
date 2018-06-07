@@ -169,10 +169,14 @@ function output($data){
                 break;
 
             case 'checkout':
+                $sendInvoiceToPhone = false;
 
-                
+                if ($_GET['invoicetophone'] == "1") {
+                    $sendInvoiceToPhone = true;
+                     writeLog("request to send invoice to phone", $openLogFile);
+                }
                
-                
+
                 $uniqueCodeGenerator = $_GET['userId'].date("djmYHis");
                 $live = '0';
                 $autopay = 1;
