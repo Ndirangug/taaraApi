@@ -16,9 +16,9 @@ include("conn.php");
 include("userInformation.php");
   date_default_timezone_set("Africa/Nairobi");
 function output($data){
-   // echo "<pre>";
+    echo "<pre>";
     print_r($data);
-    //echo "</pre>";
+    echo "</pre>";
   
 }
 
@@ -174,6 +174,7 @@ function output($data){
                 if ($_GET['invoicetophone'] == "1") {
                     $sendInvoiceToPhone = true;
                      writeLog("request to send invoice to phone", $openLogFile);
+                     //TODO: implement sending invoice sms to phone at callback(confirm.php)
                 }
                
 
@@ -191,7 +192,7 @@ function output($data){
                 $p1 = $_GET['itemIds'];
                 $p2 = $_GET['userId'];
                 $p3 = $orderId;
-                $p4 = 
+                $p4 = $_GET['storeID'];
                 $callbackUrl = "https://artscircle.co.ke/taaraBackend/confirm.php";
                 $emailNotification = 1;
                 $responseFormat = 0;
@@ -259,14 +260,19 @@ function output($data){
                 
             case 'recents':
             writeLog("attempt to get recents for userID: ".$_GET['userID'], $openLogFile);
-            echo  retrieveRecents($_GET['userID'], $conn, $openLogFile);
+            output(retrieveRecents($_GET['userID'], $conn, $openLogFile));
                 break;   
                 
             case 'allhistory':
             writeLog("attempt to get all history for userID: ".$_GET['userID'], $openLogFile);
-            echo allRecents($_GET['userID'], $conn, $openLogFile);
+            output(allRecents($_GET['userID'], $conn, $openLogFile));
        
-                break;        
+                break;    
+                
+            case 'invoiceToPhone':
+            writeLog("attempt to send invoice to phone number ".$_GET['phone']. " and invoice number ".$_GET['invoice_number'], $openLogFile);
+            output(generateInvoice($_GET['invoice_number'], $_GET['phone'], $conn, $openLogFile));
+                break;    
 
             default:
                 writeLog("android api call ".$_GET['android_api_call']." execution failed", $openLogFile);

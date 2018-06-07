@@ -4737,3 +4737,74 @@
 [Thu 7-Jun-2018, 03:22:06 pm] 41 retrieved
 [Thu 7-Jun-2018, 03:22:06 pm] 41 Daily Nationretrieved
 [Thu 7-Jun-2018, 03:22:06 pm] Retrieve prodcut occurrence rfid:1625 storeId2
+[Thu 7-Jun-2018, 03:42:10 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 03:42:10 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 03:42:12 pm] Database connection success for taara
+[Thu 7-Jun-2018, 03:42:12 pm] Database connection success for taara
+[Thu 7-Jun-2018, 03:42:12 pm] attempt to get all history for userID: 9
+[Thu 7-Jun-2018, 03:42:12 pm] attempt to get all history for userID: 9
+[Thu 7-Jun-2018, 03:42:26 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 03:42:26 pm] Database connection success for taara
+[Thu 7-Jun-2018, 03:42:26 pm] Store 'tuskys tom mboya' successfully retrieved
+[Thu 7-Jun-2018, 03:42:26 pm] Store retrieval...:2 storeId2 
+[Thu 7-Jun-2018, 03:42:32 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 03:42:32 pm] Database connection success for taara
+[Thu 7-Jun-2018, 03:42:32 pm] 41 retrieved
+[Thu 7-Jun-2018, 03:42:32 pm] 41 Daily Nationretrieved
+[Thu 7-Jun-2018, 03:42:32 pm] Retrieve prodcut occurrence rfid:1625 storeId2
+[Thu 7-Jun-2018, 03:42:52 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 03:42:52 pm] Database connection success for taara
+[Thu 7-Jun-2018, 03:42:52 pm] Order id 2524518102607701=enohpoteciovni9 queued for processing
+[Thu 7-Jun-2018, 03:42:52 pm] 1625,, 9invoicetophone=1, https://artscircle.co.ke/taaraBackend/confirm.php
+[Thu 7-Jun-2018, 03:43:17 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 03:43:17 pm] Database connection success for taara
+[Thu 7-Jun-2018, 03:43:17 pm] Order id 7134518102607700=enohpoteciovni9 queued for processing
+[Thu 7-Jun-2018, 03:43:17 pm] 1625,, 9invoicetophone=0, https://artscircle.co.ke/taaraBackend/confirm.php
+[Thu 7-Jun-2018, 03:47:05 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 03:47:05 pm] Database connection success for taara
+[Thu 7-Jun-2018, 03:47:05 pm] attempt to get all history for userID: 9
+[Thu 7-Jun-2018, 03:48:34 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 03:48:34 pm] Database connection success for taara
+[Thu 7-Jun-2018, 03:48:34 pm] attempt to get all history for userID: 9
+[Thu 7-Jun-2018, 03:48:41 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 03:48:41 pm] Database connection success for taara
+[Thu 7-Jun-2018, 03:48:41 pm] Store 'tuskys tom mboya' successfully retrieved
+[Thu 7-Jun-2018, 03:48:41 pm] Store retrieval...:2 storeId2 
+[Thu 7-Jun-2018, 03:48:52 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 03:48:52 pm] Database connection success for taara
+[Thu 7-Jun-2018, 03:48:52 pm] 41 retrieved
+[Thu 7-Jun-2018, 03:48:52 pm] 41 Daily Nationretrieved
+[Thu 7-Jun-2018, 03:48:52 pm] Retrieve prodcut occurrence rfid:1625 storeId2
+[Thu 7-Jun-2018, 03:49:01 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 03:49:01 pm] Database connection success for taara
+[Thu 7-Jun-2018, 03:49:01 pm] request to send invoice to phone
+[Thu 7-Jun-2018, 03:49:01 pm] Order id 1094518102607709 queued for processing
+[Thu 7-Jun-2018, 03:49:01 pm] 1625,, 9, https://artscircle.co.ke/taaraBackend/confirm.php
+[Thu 7-Jun-2018, 03:49:11 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 03:49:11 pm] Database connection success for taara
+[Thu 7-Jun-2018, 03:49:11 pm] Order id 1194518102607709 queued for processing
+[Thu 7-Jun-2018, 03:49:11 pm] 1625,, 9, https://artscircle.co.ke/taaraBackend/confirm.php
+[Thu 7-Jun-2018, 05:38:17 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 05:38:17 pm] Database connection success for taara
+[Thu 7-Jun-2018, 05:38:48 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 05:38:48 pm] Database connection success for taara
+[Thu 7-Jun-2018, 05:38:48 pm] attempt to send invoice to phone number 254746649576 and invoice number kjhkj
+[Thu 7-Jun-2018, 05:38:48 pm] product bought details retieval failedYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE barcode = '6161105100041'' at line 1
+[Thu 7-Jun-2018, 05:39:49 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 05:39:49 pm] Database connection success for taara
+[Thu 7-Jun-2018, 05:39:49 pm] attempt to send invoice to phone number 254746649576 and invoice number kjhkj
+[Thu 7-Jun-2018, 05:40:19 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 05:40:19 pm] Database connection success for taara
+[Thu 7-Jun-2018, 05:40:19 pm] attempt to send invoice to phone number 254746649576 and invoice number kjhkj
+[Thu 7-Jun-2018, 05:42:21 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 05:42:21 pm] Database connection success for taara
+[Thu 7-Jun-2018, 05:42:21 pm] attempt to send invoice to phone number 254746649576 and invoice number kjhkj
+[Thu 7-Jun-2018, 05:44:32 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 05:44:32 pm] Database connection success for taara
+[Thu 7-Jun-2018, 05:44:32 pm] attempt to send invoice to phone number 254746649576 and invoice number  cdsvvsd
+[Thu 7-Jun-2018, 05:52:09 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 05:52:09 pm] Database connection success for taara
+[Thu 7-Jun-2018, 05:52:09 pm] attempt to send invoice to phone number 254746649576 and invoice number  cdsvvsd
+[Thu 7-Jun-2018, 05:52:29 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 05:52:29 pm] Database connection success for taara
+[Thu 7-Jun-2018, 05:52:29 pm] attempt to send invoice to phone number 254746649576 and invoice number  cdsvvsd

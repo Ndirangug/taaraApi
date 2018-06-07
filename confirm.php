@@ -35,18 +35,21 @@ switch ($status) {
     case 'aei7p7yrx4ae34':
         #success
         writeLog("item ".$itemIds[0].$itemIds[1], $openLogFile);
-        foreach ($itemIds as $key => $value) {
-        writeLog("attempt 1 $value", $openLogFile);
-          markPaid($value, $invoice_number, $conn, $openLogFile); 
-        }
+       
 
         $query = "INSERT INTO checkouts (invoice_number, amount, userID)VALUES ('$invoice_number', '$amount', '$userid') ";
         $result = mysqli_query($conn, $query);
 
         if ($result) {
              writeLog("query successful checkoutId: $invoice_number amount: $amount userId: $userid ", $openLogFile);
-        }
-        else {
+             
+             foreach ($itemIds as $key => $value) {
+                writeLog("attempt 1 $value", $openLogFile);
+                markPaid($value, $invoice_number, $conn, $openLogFile); 
+             }
+
+             header("location:index.php?android_api_call=invoiceToPhone&phone=$postedNumber&invoice_number=$invoice_number");
+        } else {
             writeLog("query failed checkoutId: $invoice_number amount: $amount userId: $userid ".mysqli_error($conn), $openLogFile);
         }
         break;
