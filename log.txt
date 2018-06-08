@@ -4818,3 +4818,398 @@
 [Thu 7-Jun-2018, 06:35:08 pm] Database connection success for taara
 [Thu 7-Jun-2018, 06:35:08 pm] Store 'tuskys tom mboya' successfully retrieved
 [Thu 7-Jun-2018, 06:35:08 pm] Store retrieval...:2 storeId2 
+[Thu 7-Jun-2018, 06:36:15 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 06:36:15 pm] Database connection success for taara
+[Thu 7-Jun-2018, 06:36:15 pm] Store 'tuskys tom mboya' successfully retrieved
+[Thu 7-Jun-2018, 06:36:15 pm] Store retrieval...:2 storeId2 
+[Thu 7-Jun-2018, 06:36:21 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 06:36:21 pm] Database connection success for taara
+[Thu 7-Jun-2018, 06:36:21 pm] 41 retrieved
+[Thu 7-Jun-2018, 06:36:21 pm] 41 Daily Nationretrieved
+[Thu 7-Jun-2018, 06:36:21 pm] Retrieve prodcut occurrence rfid:1625 storeId2
+[Thu 7-Jun-2018, 06:36:28 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 06:36:28 pm] Database connection success for taara
+[Thu 7-Jun-2018, 06:36:28 pm] 45 retrieved
+[Thu 7-Jun-2018, 06:36:28 pm] 45 Kartasi Exercise Bookretrieved
+[Thu 7-Jun-2018, 06:36:28 pm] Retrieve prodcut occurrence rfid:6756 storeId2
+[Thu 7-Jun-2018, 06:36:49 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 06:36:49 pm] Database connection success for taara
+[Thu 7-Jun-2018, 06:36:49 pm] request to send invoice to phone
+[Thu 7-Jun-2018, 06:36:49 pm] Order id 9463818102607709 queued for processing
+[Thu 7-Jun-2018, 06:36:49 pm] 41,45,, 9, https://artscircle.co.ke/taaraBackend/confirm.php
+[Thu 7-Jun-2018, 06:47:43 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 06:47:43 pm] Database connection success for taara
+[Thu 7-Jun-2018, 06:47:43 pm] attempt to get all history for userID: 9
+[Thu 7-Jun-2018, 06:48:00 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 06:48:00 pm] Database connection success for taara
+[Thu 7-Jun-2018, 06:48:00 pm] Store  retrieval failed: 
+[Thu 7-Jun-2018, 06:48:00 pm] Store retrieval...:6756 storeId6756 
+[Thu 7-Jun-2018, 06:48:05 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 06:48:05 pm] Database connection success for taara
+[Thu 7-Jun-2018, 06:48:05 pm] attempt to get all history for userID: 9
+[Thu 7-Jun-2018, 06:51:12 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 06:51:12 pm] Database connection success for taara
+[Thu 7-Jun-2018, 06:51:12 pm] attempt to get all history for userID: 9
+[Thu 7-Jun-2018, 06:51:24 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 06:51:24 pm] Database connection success for taara
+[Thu 7-Jun-2018, 06:51:24 pm] Store  retrieval failed: 
+[Thu 7-Jun-2018, 06:51:24 pm] Store retrieval...:6756 storeId6756 
+[Thu 7-Jun-2018, 06:51:26 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 06:51:26 pm] Database connection success for taara
+[Thu 7-Jun-2018, 06:51:26 pm] attempt to get all history for userID: 9
+[Thu 7-Jun-2018, 06:52:44 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 06:52:44 pm] Database connection success for taara
+[Thu 7-Jun-2018, 06:52:44 pm] attempt to get all history for userID: 9
+[Thu 7-Jun-2018, 06:52:49 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 06:52:49 pm] Database connection success for taara
+[Thu 7-Jun-2018, 06:52:49 pm] Store  retrieval failed: 
+[Thu 7-Jun-2018, 06:52:49 pm] Store retrieval...:6756 storeId6756 
+[Thu 7-Jun-2018, 06:52:52 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 06:52:52 pm] Database connection success for taara
+[Thu 7-Jun-2018, 06:52:52 pm] attempt to get all history for userID: 9
+[Thu 7-Jun-2018, 07:36:28 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 07:36:29 pm] Database connection success for taara
+[Thu 7-Jun-2018, 07:36:29 pm] attempt to get all history for userID: 9
+[Thu 7-Jun-2018, 07:36:38 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 07:36:38 pm] Database connection success for taara
+[Thu 7-Jun-2018, 07:36:38 pm] Store 'tuskys tom mboya' successfully retrieved
+[Thu 7-Jun-2018, 07:36:38 pm] Store retrieval...:2 storeId2 
+[Thu 7-Jun-2018, 07:36:47 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 07:36:47 pm] Database connection success for taara
+[Thu 7-Jun-2018, 07:36:47 pm] 41 retrieved
+[Thu 7-Jun-2018, 07:36:47 pm] 41 Daily Nationretrieved
+[Thu 7-Jun-2018, 07:36:47 pm] Retrieve prodcut occurrence rfid:1625 storeId2
+[Thu 7-Jun-2018, 07:43:04 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 07:43:04 pm] Database connection success for taara
+[Thu 7-Jun-2018, 07:43:04 pm] attempt to get all history for userID: 9
+[Thu 7-Jun-2018, 07:43:14 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 07:43:14 pm] Database connection success for taara
+[Thu 7-Jun-2018, 07:43:14 pm] Store 'tuskys tom mboya' successfully retrieved
+[Thu 7-Jun-2018, 07:43:14 pm] Store retrieval...:2 storeId2 
+[Thu 7-Jun-2018, 07:43:45 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 07:43:45 pm] Database connection success for taara
+[Thu 7-Jun-2018, 07:43:45 pm] 41 retrieved
+[Thu 7-Jun-2018, 07:43:45 pm] 41 Daily Nationretrieved
+[Thu 7-Jun-2018, 07:43:45 pm] Retrieve prodcut occurrence rfid:1625 storeId2
+[Thu 7-Jun-2018, 07:44:09 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 07:44:09 pm] Database connection success for taara
+[Thu 7-Jun-2018, 07:44:09 pm] 41 retrieved
+[Thu 7-Jun-2018, 07:44:09 pm] 41 Daily Nationretrieved
+[Thu 7-Jun-2018, 07:44:09 pm] Retrieve prodcut occurrence rfid:1625 storeId2
+[Thu 7-Jun-2018, 07:44:22 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 07:44:22 pm] Database connection success for taara
+[Thu 7-Jun-2018, 07:44:22 pm] 41 retrieved
+[Thu 7-Jun-2018, 07:44:22 pm] 41 Daily Nationretrieved
+[Thu 7-Jun-2018, 07:44:22 pm] Retrieve prodcut occurrence rfid:1625 storeId2
+[Thu 7-Jun-2018, 07:46:23 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 07:46:23 pm] Database connection success for taara
+[Thu 7-Jun-2018, 07:46:23 pm] attempt to get all history for userID: 9
+[Thu 7-Jun-2018, 07:46:28 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 07:46:28 pm] Database connection success for taara
+[Thu 7-Jun-2018, 07:46:28 pm] Attempt to get product comparisons
+[Thu 7-Jun-2018, 07:46:29 pm] Product occurrence 45 successfully retrieved
+[Thu 7-Jun-2018, 07:46:29 pm] Kartasi Exercise Book successfully retrieved
+[Thu 7-Jun-2018, 07:46:29 pm] tuskys tom mboya successfully retrieved
+[Thu 7-Jun-2018, 07:46:29 pm] Product occurrence 46 successfully retrieved
+[Thu 7-Jun-2018, 07:46:29 pm] Kartasi Exercise Book successfully retrieved
+[Thu 7-Jun-2018, 07:46:29 pm] Tuskys pioneer branch(moi avenue) successfully retrieved
+[Thu 7-Jun-2018, 07:46:29 pm] Product occurrence 47 successfully retrieved
+[Thu 7-Jun-2018, 07:46:29 pm] Kartasi Exercise Book successfully retrieved
+[Thu 7-Jun-2018, 07:46:29 pm] the mall(westlands) successfully retrieved
+[Thu 7-Jun-2018, 07:46:29 pm] Product occurrence 48 successfully retrieved
+[Thu 7-Jun-2018, 07:46:29 pm] Kartasi Exercise Book successfully retrieved
+[Thu 7-Jun-2018, 07:46:29 pm] buffalo mall(naivasha) successfully retrieved
+[Thu 7-Jun-2018, 07:46:29 pm] Product occurrence 49 successfully retrieved
+[Thu 7-Jun-2018, 07:46:29 pm] Kartasi Exercise Book successfully retrieved
+[Thu 7-Jun-2018, 07:46:29 pm] the mall(westlands) successfully retrieved
+[Thu 7-Jun-2018, 07:47:10 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 07:47:10 pm] Database connection success for taara
+[Thu 7-Jun-2018, 07:47:10 pm] Store 'tuskys tom mboya' successfully retrieved
+[Thu 7-Jun-2018, 07:47:10 pm] Store retrieval...:2 storeId2 
+[Thu 7-Jun-2018, 07:47:19 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 07:47:19 pm] Database connection success for taara
+[Thu 7-Jun-2018, 07:47:19 pm] 41 retrieved
+[Thu 7-Jun-2018, 07:47:19 pm] 41 Daily Nationretrieved
+[Thu 7-Jun-2018, 07:47:19 pm] Retrieve prodcut occurrence rfid:1625 storeId2
+[Thu 7-Jun-2018, 07:49:09 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 07:49:09 pm] Database connection success for taara
+[Thu 7-Jun-2018, 07:49:09 pm] attempt to get all history for userID: 9
+[Thu 7-Jun-2018, 07:49:18 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 07:49:18 pm] Database connection success for taara
+[Thu 7-Jun-2018, 07:49:18 pm] Store 'tuskys tom mboya' successfully retrieved
+[Thu 7-Jun-2018, 07:49:18 pm] Store retrieval...:2 storeId2 
+[Thu 7-Jun-2018, 07:49:30 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 07:49:30 pm] Database connection success for taara
+[Thu 7-Jun-2018, 07:49:30 pm] 41 retrieved
+[Thu 7-Jun-2018, 07:49:30 pm] 41 Daily Nationretrieved
+[Thu 7-Jun-2018, 07:49:30 pm] Retrieve prodcut occurrence rfid:1625 storeId2
+[Thu 7-Jun-2018, 07:54:07 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 07:54:07 pm] Database connection success for taara
+[Thu 7-Jun-2018, 07:54:07 pm] attempt to get all history for userID: 9
+[Thu 7-Jun-2018, 07:54:20 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 07:54:20 pm] Database connection success for taara
+[Thu 7-Jun-2018, 07:54:20 pm] Store 'tuskys tom mboya' successfully retrieved
+[Thu 7-Jun-2018, 07:54:20 pm] Store retrieval...:2 storeId2 
+[Thu 7-Jun-2018, 07:54:26 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 07:54:26 pm] Database connection success for taara
+[Thu 7-Jun-2018, 07:54:26 pm] 41 retrieved
+[Thu 7-Jun-2018, 07:54:26 pm] 41 Daily Nationretrieved
+[Thu 7-Jun-2018, 07:54:26 pm] Retrieve prodcut occurrence rfid:1625 storeId2
+[Thu 7-Jun-2018, 07:54:47 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 07:54:47 pm] Database connection success for taara
+[Thu 7-Jun-2018, 07:54:47 pm] 41 retrieved
+[Thu 7-Jun-2018, 07:54:47 pm] 41 Daily Nationretrieved
+[Thu 7-Jun-2018, 07:54:47 pm] Retrieve prodcut occurrence rfid:1625 storeId2
+[Thu 7-Jun-2018, 07:55:32 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 07:55:32 pm] Database connection success for taara
+[Thu 7-Jun-2018, 07:55:32 pm] 41 retrieved
+[Thu 7-Jun-2018, 07:55:32 pm] 41 Daily Nationretrieved
+[Thu 7-Jun-2018, 07:55:32 pm] Retrieve prodcut occurrence rfid:1625 storeId2
+[Thu 7-Jun-2018, 08:00:49 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 08:00:49 pm] Database connection success for taara
+[Thu 7-Jun-2018, 08:00:49 pm] attempt to get all history for userID: 9
+[Thu 7-Jun-2018, 08:01:34 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 08:01:34 pm] Database connection success for taara
+[Thu 7-Jun-2018, 08:01:34 pm] attempt to get all history for userID: 9
+[Thu 7-Jun-2018, 08:01:44 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 08:01:44 pm] Database connection success for taara
+[Thu 7-Jun-2018, 08:01:44 pm] Store 'tuskys tom mboya' successfully retrieved
+[Thu 7-Jun-2018, 08:01:44 pm] Store retrieval...:2 storeId2 
+[Thu 7-Jun-2018, 08:03:35 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 08:03:35 pm] Database connection success for taara
+[Thu 7-Jun-2018, 08:03:35 pm] attempt to get all history for userID: 9
+[Thu 7-Jun-2018, 08:04:01 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 08:04:01 pm] Database connection success for taara
+[Thu 7-Jun-2018, 08:04:01 pm] Store 'tuskys tom mboya' successfully retrieved
+[Thu 7-Jun-2018, 08:04:01 pm] Store retrieval...:2 storeId2 
+[Thu 7-Jun-2018, 08:04:56 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 08:04:56 pm] Database connection success for taara
+[Thu 7-Jun-2018, 08:04:56 pm] 41 retrieved
+[Thu 7-Jun-2018, 08:04:56 pm] 41 Daily Nationretrieved
+[Thu 7-Jun-2018, 08:04:56 pm] Retrieve prodcut occurrence rfid:1625 storeId2
+[Thu 7-Jun-2018, 09:17:55 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 09:17:57 pm] Database connection success for taara
+[Thu 7-Jun-2018, 09:17:57 pm] attempt to get all history for userID: 9
+[Thu 7-Jun-2018, 09:19:30 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 09:19:30 pm] Database connection success for taara
+[Thu 7-Jun-2018, 09:19:30 pm] attempt to get all history for userID: 9
+[Thu 7-Jun-2018, 09:19:36 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 09:19:36 pm] Database connection success for taara
+[Thu 7-Jun-2018, 09:19:36 pm] attempt to get all history for userID: 9
+[Thu 7-Jun-2018, 09:21:14 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 09:21:14 pm] Database connection success for taara
+[Thu 7-Jun-2018, 09:21:14 pm] attempt to get all history for userID: 9
+[Thu 7-Jun-2018, 09:21:22 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 09:21:22 pm] Database connection success for taara
+[Thu 7-Jun-2018, 09:21:22 pm] attempt to get all history for userID: 9
+[Thu 7-Jun-2018, 09:22:46 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 09:22:46 pm] Database connection success for taara
+[Thu 7-Jun-2018, 09:22:46 pm] attempt to get all history for userID: 9
+[Thu 7-Jun-2018, 09:22:56 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 09:22:56 pm] Database connection success for taara
+[Thu 7-Jun-2018, 09:22:56 pm] Store 'tuskys tom mboya' successfully retrieved
+[Thu 7-Jun-2018, 09:22:56 pm] Store retrieval...:2 storeId2 
+[Thu 7-Jun-2018, 09:24:03 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 09:24:03 pm] Database connection success for taara
+[Thu 7-Jun-2018, 09:24:03 pm] 41 retrieved
+[Thu 7-Jun-2018, 09:24:03 pm] 41 Daily Nationretrieved
+[Thu 7-Jun-2018, 09:24:03 pm] Retrieve prodcut occurrence rfid:1625 storeId2
+[Thu 7-Jun-2018, 09:25:58 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 09:25:58 pm] Database connection success for taara
+[Thu 7-Jun-2018, 09:25:58 pm] 45 retrieved
+[Thu 7-Jun-2018, 09:25:58 pm] 45 Kartasi Exercise Bookretrieved
+[Thu 7-Jun-2018, 09:25:58 pm] Retrieve prodcut occurrence rfid:6756 storeId2
+[Thu 7-Jun-2018, 09:29:08 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 09:29:08 pm] Database connection success for taara
+[Thu 7-Jun-2018, 09:29:08 pm] attempt to get all history for userID: 9
+[Thu 7-Jun-2018, 09:29:17 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 09:29:17 pm] Database connection success for taara
+[Thu 7-Jun-2018, 09:29:17 pm] Store 'tuskys tom mboya' successfully retrieved
+[Thu 7-Jun-2018, 09:29:17 pm] Store retrieval...:2 storeId2 
+[Thu 7-Jun-2018, 09:29:24 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 09:29:24 pm] Database connection success for taara
+[Thu 7-Jun-2018, 09:29:24 pm] 41 retrieved
+[Thu 7-Jun-2018, 09:29:24 pm] 41 Daily Nationretrieved
+[Thu 7-Jun-2018, 09:29:24 pm] Retrieve prodcut occurrence rfid:1625 storeId2
+[Thu 7-Jun-2018, 09:30:44 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 09:30:44 pm] Database connection success for taara
+[Thu 7-Jun-2018, 09:30:44 pm] attempt to get all history for userID: 9
+[Thu 7-Jun-2018, 09:30:56 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 09:30:56 pm] Database connection success for taara
+[Thu 7-Jun-2018, 09:30:56 pm] Store 'tuskys tom mboya' successfully retrieved
+[Thu 7-Jun-2018, 09:30:56 pm] Store retrieval...:2 storeId2 
+[Thu 7-Jun-2018, 09:31:02 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 09:31:02 pm] Database connection success for taara
+[Thu 7-Jun-2018, 09:31:02 pm] 45 retrieved
+[Thu 7-Jun-2018, 09:31:02 pm] 45 Kartasi Exercise Bookretrieved
+[Thu 7-Jun-2018, 09:31:02 pm] Retrieve prodcut occurrence rfid:6756 storeId2
+[Thu 7-Jun-2018, 09:32:20 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 09:32:20 pm] Database connection success for taara
+[Thu 7-Jun-2018, 09:32:20 pm] attempt to get all history for userID: 9
+[Thu 7-Jun-2018, 09:32:35 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 09:32:35 pm] Database connection success for taara
+[Thu 7-Jun-2018, 09:32:35 pm] Store 'tuskys tom mboya' successfully retrieved
+[Thu 7-Jun-2018, 09:32:35 pm] Store retrieval...:2 storeId2 
+[Thu 7-Jun-2018, 09:32:42 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 09:32:42 pm] Database connection success for taara
+[Thu 7-Jun-2018, 09:32:42 pm] 41 retrieved
+[Thu 7-Jun-2018, 09:32:42 pm] 41 Daily Nationretrieved
+[Thu 7-Jun-2018, 09:32:42 pm] Retrieve prodcut occurrence rfid:1625 storeId2
+[Thu 7-Jun-2018, 09:34:08 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 09:34:08 pm] Database connection success for taara
+[Thu 7-Jun-2018, 09:34:08 pm] User info updated successfully
+[Thu 7-Jun-2018, 09:34:08 pm] attempt to change user infromation for ndirangu.mepawa@gmail.com 
+[Thu 7-Jun-2018, 09:34:13 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 09:34:13 pm] Database connection success for taara
+[Thu 7-Jun-2018, 09:34:13 pm] attempt to get all history for userID: 9
+[Thu 7-Jun-2018, 09:35:16 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 09:35:16 pm] Database connection success for taara
+[Thu 7-Jun-2018, 09:35:16 pm] attempt to get all history for userID: 9
+[Thu 7-Jun-2018, 09:35:22 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 09:35:22 pm] Database connection success for taara
+[Thu 7-Jun-2018, 09:35:22 pm] User info updated successfully
+[Thu 7-Jun-2018, 09:35:22 pm] attempt to change user infromation for ndirangu.mepawa@gmail.com 
+[Thu 7-Jun-2018, 09:35:25 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 09:35:25 pm] Database connection success for taara
+[Thu 7-Jun-2018, 09:35:25 pm] attempt to get all history for userID: 9
+[Thu 7-Jun-2018, 09:37:32 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 09:37:32 pm] Database connection success for taara
+[Thu 7-Jun-2018, 09:37:32 pm] attempt to get all history for userID: 9
+[Thu 7-Jun-2018, 09:37:39 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 09:37:39 pm] Database connection success for taara
+[Thu 7-Jun-2018, 09:37:39 pm] User info updated successfully
+[Thu 7-Jun-2018, 09:37:39 pm] attempt to change user infromation for ndirangu.mepawa@gmail.com 
+[Thu 7-Jun-2018, 09:37:43 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 09:37:43 pm] Database connection success for taara
+[Thu 7-Jun-2018, 09:37:43 pm] attempt to get all history for userID: 9
+[Thu 7-Jun-2018, 09:39:39 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 09:39:39 pm] Database connection success for taara
+[Thu 7-Jun-2018, 09:39:39 pm] attempt to get all history for userID: 9
+[Thu 7-Jun-2018, 09:39:47 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 09:39:47 pm] Database connection success for taara
+[Thu 7-Jun-2018, 09:39:48 pm] User info updated successfully
+[Thu 7-Jun-2018, 09:39:48 pm] attempt to change user infromation for ndirangu.mepawa@gmail.com 
+[Thu 7-Jun-2018, 09:40:10 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 09:40:10 pm] Database connection success for taara
+[Thu 7-Jun-2018, 09:40:10 pm] User info updated successfully
+[Thu 7-Jun-2018, 09:40:10 pm] attempt to change user infromation for ndirangu.mepawa@gmail.com 
+[Thu 7-Jun-2018, 09:42:57 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 09:42:57 pm] Database connection success for taara
+[Thu 7-Jun-2018, 09:42:57 pm] attempt to get all history for userID: 9
+[Thu 7-Jun-2018, 09:43:12 pm] File 'log.txt' opened successfully
+[Thu 7-Jun-2018, 09:43:12 pm] Database connection success for taara
+[Thu 7-Jun-2018, 09:43:12 pm] User info updated successfully
+[Thu 7-Jun-2018, 09:43:12 pm] attempt to change user infromation for ndirangu.mepawa@gmail.com 
+[Fri 8-Jun-2018, 10:57:31 am] File 'log.txt' opened successfully
+[Fri 8-Jun-2018, 10:57:31 am] Database connection success for taara
+[Fri 8-Jun-2018, 10:57:31 am] attempt to send invoice to phone number 254746649576 and invoice number  cdsvvsd
+[Fri 8-Jun-2018, 10:57:51 am] File 'log.txt' opened successfully
+[Fri 8-Jun-2018, 10:57:51 am] Database connection success for taara
+[Fri 8-Jun-2018, 10:57:51 am] attempt to send invoice to phone number 254746649576 and invoice number  cdsvvsd
+[Fri 8-Jun-2018, 11:10:55 am] File 'log.txt' opened successfully
+[Fri 8-Jun-2018, 11:10:55 am] Database connection success for taara
+[Fri 8-Jun-2018, 11:10:55 am] attempt to genearete pdf invoice254746649576 and invoice number  cdsvvsd
+[Fri 8-Jun-2018, 11:11:28 am] File 'log.txt' opened successfully
+[Fri 8-Jun-2018, 11:11:28 am] Database connection success for taara
+[Fri 8-Jun-2018, 11:11:28 am] attempt to genearete pdf invoice254746649576 and invoice number  cdsvvsd
+[Fri 8-Jun-2018, 11:12:10 am] File 'log.txt' opened successfully
+[Fri 8-Jun-2018, 11:12:10 am] Database connection success for taara
+[Fri 8-Jun-2018, 11:12:10 am] attempt to genearete pdf invoice phone: 254746649576 and invoice number  cdsvvsd
+[Fri 8-Jun-2018, 11:15:50 am] File 'log.txt' opened successfully
+[Fri 8-Jun-2018, 11:15:50 am] Database connection success for taara
+[Fri 8-Jun-2018, 11:15:50 am] attempt to genearete pdf invoice phone: 254746649576 and invoice number  cdsvvsd
+[Fri 8-Jun-2018, 11:16:31 am] File 'log.txt' opened successfully
+[Fri 8-Jun-2018, 11:16:31 am] Database connection success for taara
+[Fri 8-Jun-2018, 11:16:31 am] attempt to genearete pdf invoice phone: 254746649576 and invoice number  cdsvvsd
+[Fri 8-Jun-2018, 11:17:49 am] File 'log.txt' opened successfully
+[Fri 8-Jun-2018, 11:17:49 am] Database connection success for taara
+[Fri 8-Jun-2018, 11:17:49 am] attempt to genearete pdf invoice phone: 254746649576 and invoice number  cdsvvsd
+[Fri 8-Jun-2018, 11:18:02 am] File 'log.txt' opened successfully
+[Fri 8-Jun-2018, 11:18:02 am] Database connection success for taara
+[Fri 8-Jun-2018, 11:18:02 am] attempt to genearete pdf invoice phone: 254746649576 and invoice number  cdsvvsd
+[Fri 8-Jun-2018, 11:18:20 am] File 'log.txt' opened successfully
+[Fri 8-Jun-2018, 11:18:20 am] Database connection success for taara
+[Fri 8-Jun-2018, 11:18:20 am] attempt to genearete pdf invoice phone: 254746649576 and invoice number  cdsvvsd
+[Fri 8-Jun-2018, 11:22:14 am] File 'log.txt' opened successfully
+[Fri 8-Jun-2018, 11:22:14 am] Database connection success for taara
+[Fri 8-Jun-2018, 11:22:14 am] attempt to genearete pdf invoice phone: 254746649576 and invoice number  cdsvvsd
+[Fri 8-Jun-2018, 11:26:11 am] File 'log.txt' opened successfully
+[Fri 8-Jun-2018, 11:26:11 am] Database connection success for taara
+[Fri 8-Jun-2018, 11:26:11 am] attempt to genearete pdf invoice phone: 254746649576 and invoice number  cdsvvsd
+[Fri 8-Jun-2018, 11:27:04 am] File 'log.txt' opened successfully
+[Fri 8-Jun-2018, 11:27:04 am] Database connection success for taara
+[Fri 8-Jun-2018, 11:27:04 am] attempt to genearete pdf invoice phone: 254746649576 and invoice number  cdsvvsd
+[Fri 8-Jun-2018, 11:27:20 am] File 'log.txt' opened successfully
+[Fri 8-Jun-2018, 11:27:20 am] Database connection success for taara
+[Fri 8-Jun-2018, 11:27:20 am] attempt to genearete pdf invoice phone: 254746649576 and invoice number  cdsvvsd
+[Fri 8-Jun-2018, 11:27:35 am] File 'log.txt' opened successfully
+[Fri 8-Jun-2018, 11:27:35 am] Database connection success for taara
+[Fri 8-Jun-2018, 11:27:35 am] attempt to genearete pdf invoice phone: 254746649576 and invoice number  cdsvvsd
+[Fri 8-Jun-2018, 11:27:47 am] File 'log.txt' opened successfully
+[Fri 8-Jun-2018, 11:27:47 am] Database connection success for taara
+[Fri 8-Jun-2018, 11:27:47 am] attempt to genearete pdf invoice phone: 254746649576 and invoice number  cdsvvsd
+[Fri 8-Jun-2018, 11:28:08 am] File 'log.txt' opened successfully
+[Fri 8-Jun-2018, 11:28:08 am] Database connection success for taara
+[Fri 8-Jun-2018, 11:28:08 am] attempt to genearete pdf invoice phone: 254746649576 and invoice number  cdsvvsd
+[Fri 8-Jun-2018, 11:29:29 am] File 'log.txt' opened successfully
+[Fri 8-Jun-2018, 11:29:29 am] Database connection success for taara
+[Fri 8-Jun-2018, 11:29:29 am] attempt to genearete pdf invoice phone: 254746649576 and invoice number  cdsvvsd
+[Fri 8-Jun-2018, 11:29:31 am] File 'log.txt' opened successfully
+[Fri 8-Jun-2018, 11:29:31 am] Database connection success for taara
+[Fri 8-Jun-2018, 11:29:31 am] attempt to genearete pdf invoice phone: 254746649576 and invoice number  cdsvvsd
+[Fri 8-Jun-2018, 11:30:01 am] File 'log.txt' opened successfully
+[Fri 8-Jun-2018, 11:30:01 am] Database connection success for taara
+[Fri 8-Jun-2018, 11:30:01 am] attempt to genearete pdf invoice phone: 254746649576 and invoice number  cdsvvsd
+[Fri 8-Jun-2018, 11:30:12 am] File 'log.txt' opened successfully
+[Fri 8-Jun-2018, 11:30:12 am] Database connection success for taara
+[Fri 8-Jun-2018, 11:30:12 am] attempt to genearete pdf invoice phone: 254746649576 and invoice number  cdsvvsd
+[Fri 8-Jun-2018, 11:33:00 am] File 'log.txt' opened successfully
+[Fri 8-Jun-2018, 11:33:00 am] Database connection success for taara
+[Fri 8-Jun-2018, 11:33:00 am] attempt to genearete pdf invoice phone: 254746649576 and invoice number  cdsvvsd
+[Fri 8-Jun-2018, 11:55:14 am] File 'log.txt' opened successfully
+[Fri 8-Jun-2018, 11:55:14 am] Database connection success for taara
+[Fri 8-Jun-2018, 11:55:14 am] attempt to genearete pdf invoice phone: 254746649576 and invoice number  cdsvvsd
+[Fri 8-Jun-2018, 11:58:49 am] File 'log.txt' opened successfully
+[Fri 8-Jun-2018, 11:58:49 am] Database connection success for taara
+[Fri 8-Jun-2018, 11:58:49 am] attempt to genearete pdf invoice phone: 254746649576 and invoice number  cdsvvsd
+[Fri 8-Jun-2018, 11:59:15 am] File 'log.txt' opened successfully
+[Fri 8-Jun-2018, 11:59:15 am] Database connection success for taara
+[Fri 8-Jun-2018, 11:59:15 am] attempt to genearete pdf invoice phone: 254746649576 and invoice number  cdsvvsd
+[Fri 8-Jun-2018, 11:59:38 am] File 'log.txt' opened successfully
+[Fri 8-Jun-2018, 11:59:38 am] Database connection success for taara
+[Fri 8-Jun-2018, 11:59:38 am] attempt to genearete pdf invoice phone: 254746649576 and invoice number  cdsvvsd
+[Fri 8-Jun-2018, 12:00:03 pm] File 'log.txt' opened successfully
+[Fri 8-Jun-2018, 12:00:03 pm] Database connection success for taara
+[Fri 8-Jun-2018, 12:00:03 pm] attempt to genearete pdf invoice phone: 254746649576 and invoice number  cdsvvsd
+[Fri 8-Jun-2018, 12:00:14 pm] File 'log.txt' opened successfully
+[Fri 8-Jun-2018, 12:00:14 pm] Database connection success for taara
+[Fri 8-Jun-2018, 12:00:14 pm] attempt to genearete pdf invoice phone: 254746649576 and invoice number  cdsvvsd
+[Fri 8-Jun-2018, 12:00:26 pm] File 'log.txt' opened successfully
+[Fri 8-Jun-2018, 12:00:26 pm] Database connection success for taara
+[Fri 8-Jun-2018, 12:00:26 pm] attempt to genearete pdf invoice phone: 254746649576 and invoice number  cdsvvsd
+[Fri 8-Jun-2018, 12:00:33 pm] File 'log.txt' opened successfully
+[Fri 8-Jun-2018, 12:00:33 pm] Database connection success for taara
+[Fri 8-Jun-2018, 12:00:33 pm] attempt to genearete pdf invoice phone: 254746649576 and invoice number  cdsvvsd
+[Fri 8-Jun-2018, 12:05:04 pm] File 'log.txt' opened successfully
+[Fri 8-Jun-2018, 12:05:04 pm] Database connection success for taara
+[Fri 8-Jun-2018, 12:05:04 pm] attempt to genearete pdf invoice phone: 254746649576 and invoice number  cdsvvsd
+[Fri 8-Jun-2018, 12:09:42 pm] File 'log.txt' opened successfully
+[Fri 8-Jun-2018, 12:09:42 pm] Database connection success for taara
+[Fri 8-Jun-2018, 12:09:42 pm] attempt to send invoice to phone number 254746649576 and invoice number  cdsvvsd
+[Fri 8-Jun-2018, 12:10:32 pm] File 'log.txt' opened successfully
+[Fri 8-Jun-2018, 12:10:32 pm] Database connection success for taara
+[Fri 8-Jun-2018, 12:10:32 pm] attempt to send invoice to phone number 254746649576 and invoice number  736300810260110LV1U9
+[Fri 8-Jun-2018, 12:10:32 pm] Paid products retieval failed
+[Fri 8-Jun-2018, 12:11:22 pm] File 'log.txt' opened successfully
+[Fri 8-Jun-2018, 12:11:22 pm] Database connection success for taara
+[Fri 8-Jun-2018, 12:11:22 pm] attempt to send invoice to phone number 254795580723 and invoice number  736300810260110LV1U9
+[Fri 8-Jun-2018, 12:11:22 pm] Paid products retieval failed
+[Fri 8-Jun-2018, 12:12:05 pm] File 'log.txt' opened successfully
+[Fri 8-Jun-2018, 12:12:05 pm] Database connection success for taara
+[Fri 8-Jun-2018, 12:12:05 pm] attempt to send invoice to phone number 254795580723 and invoice number %jhbhjb
+[Fri 8-Jun-2018, 12:12:39 pm] File 'log.txt' opened successfully
+[Fri 8-Jun-2018, 12:12:39 pm] Database connection success for taara
+[Fri 8-Jun-2018, 12:12:39 pm] attempt to send invoice to phone number 254795580723 and invoice number kjhkj
+[Fri 8-Jun-2018, 12:38:17 pm] File 'log.txt' opened successfully
+[Fri 8-Jun-2018, 12:38:17 pm] Database connection success for taara
+[Fri 8-Jun-2018, 12:38:17 pm] attempt to send invoice to phone number 254795580723 and invoice number kjhkj

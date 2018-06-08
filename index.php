@@ -16,9 +16,9 @@ include("conn.php");
 include("userInformation.php");
   date_default_timezone_set("Africa/Nairobi");
 function output($data){
-    //echo "<pre>";
+    echo "<pre>";
     print_r($data);
-    //echo "</pre>";
+    echo "</pre>";
   
 }
 
@@ -68,7 +68,9 @@ function output($data){
 
     //call to undo item paid
     // markUnPaid($rfid, $conn, $openLogFile);
-    
+
+    // ----------------------------------Invoices---------------------------------------------
+    include("invoice.php");    
 
     // ------------------------------Stores------------------------------
     include("findStore.php");
@@ -271,7 +273,12 @@ function output($data){
                 
             case 'invoiceToPhone':
             writeLog("attempt to send invoice to phone number ".$_GET['phone']. " and invoice number ".$_GET['invoice_number'], $openLogFile);
-            output(generateInvoice($_GET['invoice_number'], $_GET['phone'], $conn, $openLogFile));
+            output(smsInvoice($_GET['invoice_number'], $_GET['phone'], $conn, $openLogFile));
+                break;    
+            
+            case 'pdfInvoice':
+            writeLog("attempt to genearete pdf invoice phone: ".$_GET['phone']. " and invoice number ".$_GET['invoice_number'], $openLogFile);
+            output(generatePdfInvoice($_GET['invoice_number'], $_GET['phone'], $conn, $openLogFile));
                 break;    
 
             default:

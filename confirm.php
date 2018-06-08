@@ -7,6 +7,7 @@
     //  these values below are picked from the incoming URL and assigned to variables that we
     //  will use in our security check URL
     //  */
+    define("SERVICE_FEE_RATE", 0.04);
     writeLog("getting values", $openLogFile);
      $val1 = $_GET["id"];
      $val2 = $_GET["ivm"];
@@ -26,6 +27,8 @@ $registeredNumber = $_GET['msisdn_idnum'];
 $postedNumber = $_GET['msisdn_custnum'];
 $customerName = $_GET['msisdn_id'];
 $status = $_GET['status'];
+$subTotal = $amount / (1 + SERVICE_FEE_RATE);
+$serviceCharge = $subTotal * SERVICE_FEE_RATE;
 
 
 // $ipnurl = "https://www.ipayafrica.com/ipn/?vendor=".$val."&id=".$val1."&ivm=".$val2."&qwh=".$val3."&afd=".$val4."&poi=".$val5."&uyt=".$val6."&ifd=".$val7;
@@ -38,7 +41,7 @@ switch ($status) {
         writeLog("item ".$itemIds[0].$itemIds[1], $openLogFile);
        
 
-        $query = "INSERT INTO checkouts (invoice_number, amount, userID)VALUES ('$invoice_number', '$amount', '$userid') ";
+        $query = "INSERT INTO checkouts (invoice_number, amount, userID, service_charge)VALUES ('$invoice_number', '$amount', '$userid', '$serviceCharge') ";
         $result = mysqli_query($conn, $query);
 
         if ($result) {
